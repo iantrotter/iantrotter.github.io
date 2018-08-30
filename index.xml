@@ -11,6 +11,171 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Computational Tricks for Numeric Stochastic Dynamic Programming: Solving a Large Example with (Relative Ease)</title>
+      <link>http://www.iantrotter.com/talk/ppgea-sept18/</link>
+      <pubDate>Thu, 30 Aug 2018 11:35:02 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/talk/ppgea-sept18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>30th International Seminar on Economic Policy</title>
+      <link>http://www.iantrotter.com/post/xxx-sipe/</link>
+      <pubDate>Thu, 30 Aug 2018 10:45:46 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/xxx-sipe/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m on the organising committee of the 30th International Seminar on Economic Policy (SIPE), the 13th and 14th of September, 2018. SIPE is an annual event at the Department of Agricultural Economics, UFV. Fot the 30th anniversary, the event will be especially great, with the main theme being &amp;ldquo;Sustainability and Perspectives for the Brazilian Agriculture&amp;rdquo;. Certainly, there will be much interesting discussion around the latest Brazilian agricultural census that has just been released, and plenty of other interesting topics related to the future of Brazilian agriculture.&lt;/p&gt;
+
+&lt;p&gt;In particular, I will be hosting a session on some futuristic topics: Intelligent Agriculture, Bioeconomy and Bioenergy &amp;ndash; at 08:00 on Friday 14th of September &amp;ndash; featuring some great speakers: Silvia Maria Fonseca Massruhá from EMBRAPA will talk about intelligent agriculture (which we all know is the future of agriculture), and Amaro Olímpio Pereira Junior &amp;ndash; which will talk about bioenergy (which we all know is the future of energy).&lt;/p&gt;
+
+&lt;p&gt;Everyone is welcome!&lt;/p&gt;
+
+&lt;p&gt;For the full program, and for signing up, please visit the link: (&lt;a href=&#34;http://bit.ly/30SIPE&#34; target=&#34;_blank&#34;&gt;http://bit.ly/30SIPE&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimizing community trees using the open tree of life increases the reliability of phylogenetic diversity and dispersion indices</title>
+      <link>http://www.iantrotter.com/publication/community-trees/</link>
+      <pubDate>Wed, 29 Aug 2018 23:31:56 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/publication/community-trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The rule of 72</title>
+      <link>http://www.iantrotter.com/post/rule-of-72/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/rule-of-72/</guid>
+      <description>&lt;p&gt;The &amp;ldquo;rule of 72&amp;rdquo; is &amp;ndash; or at least should be &amp;ndash; a standard tool in everyone&amp;rsquo;s mathematical toolkit, and helps us think intuitively about exponential growth and exponential decay.&lt;/p&gt;
+
+&lt;p&gt;But did you ever stop and wonder how and why this black magic incantation actually works?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;The rule of 72 says that if you divide the number 72 by the percentage growth rate, you will get approximately the time to double or the half time. Suppose, for instance, that the population growth rate is 2% per year. To calculate approximately how long time it will take for the population to double, we simply divide 72 by the growth rate in percent:
+$$ \text{Years to double} = \frac{72}{2} = 36$$
+A growth rate of 3% gives a doubling time of 24 years, 4% gives 18 years, 6% gives 12 years, and so on. In the case of exponential decay, the rule will give the half-time.&lt;/p&gt;
+
+&lt;p&gt;This is an absolutely incredible approximation rule. It gives you superpowers: you are now able to simply glance quickly at a growth or decay rate and immediately get a feel for the doubling or halving time, which is often a more intuitive measure than the rate itself.&lt;/p&gt;
+
+&lt;p&gt;So how does it work?&lt;/p&gt;
+
+&lt;p&gt;First we set up an equation showing exactly what we mean by doubling time, and how it relates to the rate of (compounded) growth. If $p$ is the growth rate and $a_0$ is the initial quantity, we know that after one period, the quantity $a_1$ will be given by:
+$$ a_1 = a_0(1+p). $$
+To calculate the quantity after two periods, we apply the growth rate to $a_1$:
+$$ a_2 = a_1(1+p) = a_0 (1+p)(1+p) = a_0(1+p)^2. $$
+You&amp;rsquo;ve probably got the point already: after applying the growth rate for $n$ periods, the quantity will be:
+$$ a_n = a_0(1+p)^n. $$
+If we are looking for the doubling time, we want to know how many periods it takes before the quantity has grown to twice its initial value, $2a_0$. In fact, we want to know the number of periods $n$ such that:
+$$ 2a_0 = a_0(1+p)^n. $$
+Solving this equation for the number $n$ is not so hard: first we can divide both sides by $a_0$ to make it disappear entirely from the equation (it turns out that the doubling time does not depend on the initial quantity!), and then we take the natural logarithm of both sides of the equation and simply solve for $n$:
+$$ 2 = (1+p)^n $$
+$$ \ln(2) = n\ln(1+p) $$
+$$ n = \frac{\ln(2)}{\ln(1+p)} $$
+This equation explicitly gives the &lt;em&gt;exact&lt;/em&gt; number of periods $n$ that the initial quantity will take to double, given the growth rate $p$. But as a rule-of-thumb, it would be very handy, because it involves calculating two logarithms and doing a division, which is too taxing for my poor little head.&lt;/p&gt;
+
+&lt;p&gt;So from here, we make two wonderful approximations. Firstly, we note that when the growth rate $p$ is small, we can approximate $\ln(1+p)$ simply by $p$:
+$$ \ln(1+p) \approx p. $$
+You can try this on your calculator, and see that it is a fairly accurate approximation for small values of $p$, up to about $0.1$ (that is, a 10% growth rate).&lt;/p&gt;
+
+&lt;p&gt;But wait a minute &amp;ndash; how did we do that? And how can we be sure that it is so? Testing things on the calculator may convince some people, but certainly not a critical mind. And furthermore, I don&amp;rsquo;t find it to be a very satisfactory explanation. So let&amp;rsquo;s make the argument a little more convincing.&lt;/p&gt;
+
+&lt;p&gt;A few prerequisites: we all know that the derivative of $\ln(x)$ is simply $1/x$. And we also know that $\ln(1)=0$. A &amp;ldquo;first-order &lt;a href=&#34;https://en.wikipedia.org/wiki/Taylor_series&#34; target=&#34;_blank&#34;&gt;Taylor expansion&lt;/a&gt;&amp;rdquo; is a way of approximating the value of a function at a point using the value of the function and its derivative at a nearby point:
+$$ f(x_0 + \Delta x) \approx f(x_0) + f&amp;rsquo;(x_0) \Delta x. $$
+Now, let&amp;rsquo;s try creating a first-order Taylor expansion of the function $\ln(x)$ around the point $x_0=1$:
+$$ \ln(1+\Delta x) \approx \ln(1) + \frac{1}{1}\Delta x. $$
+Then remember that $\ln(1)=0$, and use $\Delta x = p$:
+$$ \ln(1+p) \approx p. $$
+So this approximation is simply the first-order Taylor expansion of the natural logarithm $\ln(\cdot)$ around the point $x_0 = 1$! (If you are concerned about the accuracy of the approximation, rest assured that it will be of the order $O(p^2)$.).&lt;/p&gt;
+
+&lt;p&gt;Back to the doubling time. Insert the first wonderful approximation $\ln(1+p) \approx p$ into the denominator:
+$$ n \approx \frac{\ln(2)}{p}. $$
+Calculating $\ln(2)$ can be a little tricky too, so let&amp;rsquo;s try to do something about the numerator. Calculating $\ln(2)$ to the first ten decimal points gives the following:
+$$ \ln(2) = 0.6931471806 = 69.31471806\% $$
+Since the numerator is constant, let&amp;rsquo;s just put in a number that&amp;rsquo;s close to the number $\ln(2)$, but which is a little prettier and easier to work with. Since $p$ will normally assume values such as 1%, 2%, &amp;hellip;, it would be conventient to use a number that is easily divided by whole number percentages. Turns out that, amongst the numbers close to 69%, 72% is the number with the largest amount of prime factors &amp;ndash; which means that it can be evenly divided by many different integers:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Number&lt;/th&gt;
+&lt;th&gt;Factors&lt;/th&gt;
+&lt;th&gt;Number of Factors&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;65&lt;/td&gt;
+&lt;td&gt;5,13&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;66&lt;/td&gt;
+&lt;td&gt;2,3,6,11,22,33&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;67&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;68&lt;/td&gt;
+&lt;td&gt;2,4,17,34&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;69&lt;/td&gt;
+&lt;td&gt;3,23&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;70&lt;/td&gt;
+&lt;td&gt;2,5,7,10,14,35&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;71&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;72&lt;/td&gt;
+&lt;td&gt;2,3,4,6,8,9,12,18,24,36&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;73&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;So we choose 72% to approximate 69.31471806% in this case, because it is a number which is particularly easy to divide by many integers that we are likely to encounter (5, 7 and 10 being notable exceptions, but for that you can rather use 70 instead).&lt;/p&gt;
+
+&lt;p&gt;Therefore, we can approximate $n$ &amp;ndash; the number of periods required for doubling the initial quantity &amp;ndash; by:
+$$ n \approx \frac{72}{p}. $$
+And there you have it: the rule of 72. A simple approximation rule for thinking about growth (or decay) rates, supported by an interesting mathematical sleight-of-hand.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Sometimes we can solve a problem &lt;em&gt;almost&lt;/em&gt; correctly in a small fraction of the time it takes to solve the problem exactly. This post is an appreciation of approximation methods, related to my project on &lt;a href=&#34;http://www.iantrotter.com/project/reverse-the-curse/&#34;&gt;approximate solutions to stochastic dynamic optimisation problems&lt;/a&gt;, funded by &lt;a href=&#34;https://serrapilheira.org/en/&#34; target=&#34;_blank&#34;&gt;Instituto Serraphilheira&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Developing the Norwegian Energy System in the European Energy Transition (NORENS)</title>
       <link>http://www.iantrotter.com/project/norens/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>

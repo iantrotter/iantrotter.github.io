@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ian Michael Trotter</copyright>
-    <lastBuildDate>Wed, 31 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Aug 2018 23:31:56 -0300</lastBuildDate>
     
 	<atom:link href="http://www.iantrotter.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Optimizing community trees using the open tree of life increases the reliability of phylogenetic diversity and dispersion indices</title>
+      <link>http://www.iantrotter.com/publication/community-trees/</link>
+      <pubDate>Wed, 29 Aug 2018 23:31:56 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/publication/community-trees/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Soil and altitude drives diversity and functioning of Brazilian (Campo de Altitude)</title>
