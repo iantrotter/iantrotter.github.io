@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Ian Michael Trotter</title>
+    <link>http://www.iantrotter.com/publication_types/1/</link>
+    <description>Recent content in 1 on Ian Michael Trotter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ian Michael Trotter</copyright>
+    <lastBuildDate>Tue, 25 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.iantrotter.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimal Fiscal Policy: A Dynamic Analysis for Brazil</title>
+      <link>http://www.iantrotter.com/publication/optimal-fiscal-policy/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/publication/optimal-fiscal-policy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

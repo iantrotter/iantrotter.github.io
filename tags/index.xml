@@ -6,35 +6,72 @@
     <description>Recent content in Tags on Ian Michael Trotter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Ian Michael Trotter</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2018 Ian Michael Trotter</copyright>
+    <lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.iantrotter.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>http://www.iantrotter.com/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Algorithms</title>
+      <link>http://www.iantrotter.com/tags/algorithms/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.iantrotter.com/tags/academic/</guid>
-      <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>http://www.iantrotter.com/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.iantrotter.com/tags/deep-learning/</guid>
+      <guid>http://www.iantrotter.com/tags/algorithms/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>http://www.iantrotter.com/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Dynamic programming</title>
+      <link>http://www.iantrotter.com/tags/dynamic-programming/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.iantrotter.com/tags/demo/</guid>
+      <guid>http://www.iantrotter.com/tags/dynamic-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy</title>
+      <link>http://www.iantrotter.com/tags/energy/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/tags/energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macnine-learning</title>
+      <link>http://www.iantrotter.com/tags/macnine-learning/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/tags/macnine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macroeconomics</title>
+      <link>http://www.iantrotter.com/tags/macroeconomics/</link>
+      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/tags/macroeconomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimisation</title>
+      <link>http://www.iantrotter.com/tags/optimisation/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/tags/optimisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum computing</title>
+      <link>http://www.iantrotter.com/tags/quantum-computing/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/tags/quantum-computing/</guid>
       <description></description>
     </item>
     

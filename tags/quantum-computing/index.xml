@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum computing on Ian Michael Trotter</title>
+    <link>http://www.iantrotter.com/tags/quantum-computing/</link>
+    <description>Recent content in Quantum computing on Ian Michael Trotter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ian Michael Trotter</copyright>
+    <lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.iantrotter.com/tags/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reverse the Curse: Can Quantum Computing Lift Bellman’s Curse of Dimensionality?</title>
+      <link>http://www.iantrotter.com/project/reverse-the-curse/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/project/reverse-the-curse/</guid>
+      <description>The purpose of this research is to develop improved methods for the numerical resolution of stochastic dynamic optimisation problems. Although Bellman’s infamous “curse of dimensionality” impedes the numerical resolution of all but the simplest such problems, approximation methods have had considerable success. At the same time, recent research shows that the quantum computing paradigm could revolutionise the resolution of optimisation problems.
+However, no research appears yet to have considered the application of quantum computing to stochastic dynamic optimisation problems.</description>
+    </item>
+    
+  </channel>
+</rss>

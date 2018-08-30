@@ -6,9 +6,129 @@
     <description>Recent content in Homes on Ian Michael Trotter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Ian Michael Trotter</copyright>
-    <lastBuildDate>Sun, 24 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2018 Ian Michael Trotter</copyright>
+    <lastBuildDate>Sat, 14 Oct 2017 23:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="http://www.iantrotter.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://www.iantrotter.com/home/hero_carousel/</link>
+      <pubDate>Sat, 14 Oct 2017 23:00:00 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.iantrotter.com/home/about/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/home/about/</guid>
+      <description>Biography Ian Michael Trotter is a professor at the Department of Agricultural Economics at Universidade Federal de Viçosa, Brazil. His research interests revolve around mathematical and computational modelling, for example of different phenomena in macroeconomics and energy economics, and he is a member of the research group on Natural and Environmental Resources.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://www.iantrotter.com/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.iantrotter.com/home/skills/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>http://www.iantrotter.com/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>http://www.iantrotter.com/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://www.iantrotter.com/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://www.iantrotter.com/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.iantrotter.com/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://www.iantrotter.com/home/teaching/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/home/teaching/</guid>
+      <description>At the Federal University of Viçosa, I teach the following courses:
+ ERU403: Mathematical Economics I ERU407: Macroeconomics Applied to Agribusiness II ERU706: Macroeconomic Theory III ERU730: Computable General Equilibrium Models  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://www.iantrotter.com/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://www.iantrotter.com/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.iantrotter.com/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

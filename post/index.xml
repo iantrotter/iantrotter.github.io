@@ -6,9 +6,22 @@
     <description>Recent content in Posts on Ian Michael Trotter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Ian Michael Trotter</copyright>
+    <copyright>&amp;copy; 2018 Ian Michael Trotter</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0200</lastBuildDate>
-    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.iantrotter.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Phd Thesis Won an Award</title>
+      <link>http://www.iantrotter.com/post/phd-thesis-award/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 -0200</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/phd-thesis-award/</guid>
+      <description>&lt;p&gt;On wednesday last week, the winners of the awards (one per field) for &lt;a href=&#34;http://capes.gov.br/sala-de-imprensa/noticias/8592-premio-capes-seleciona-melhores-teses-defendidas-em-2016&#34; target=&#34;_blank&#34;&gt;best PhD theses in Brazil in 2016 were announced&lt;/a&gt;. And, lo and behold, there was &lt;a href=&#34;http://capes.gov.br/images/stories/download/legislacao/Portaria-199-Premio-Capes-de-Tese-2017.pdf&#34; target=&#34;_blank&#34;&gt;my name in the official gazette&lt;/a&gt; &amp;ndash; receiving the award in the field of economics for my &lt;a href=&#34;http://www.iantrotter.com/files/Thesis_Ian_Trotter.pdf&#34;&gt;thesis on energy and climate change&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Website Launched!</title>
@@ -16,16 +29,9 @@
       <pubDate>Tue, 26 Sep 2017 09:09:02 -0300</pubDate>
       
       <guid>http://www.iantrotter.com/post/website-launch/</guid>
-      <description>&lt;p&gt;Welcome to my researcher profile website! This site will showcase my research, showing both results and work in progress. It feels a little empty at the moment, but it will gradually fill up with interesting content.&lt;/p&gt;
-
-&lt;p&gt;The site was hacked together in a relatively short time using the following components:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Built with &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Using the &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34; target=&#34;_blank&#34;&gt;Academic theme&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Hosted on &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Welcome to my researcher profile website! This site will showcase my research, showing both results and work in progress. It feels a little empty at the moment, but it will gradually fill up with interesting content.
+The site was hacked together in a relatively short time using the following components:
+ Built with Hugo Using the Academic theme Hosted on GitHub Pages  </description>
     </item>
     
   </channel>

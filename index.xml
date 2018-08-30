@@ -6,9 +6,83 @@
     <description>Recent content in Ian Michael Trotter on Ian Michael Trotter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Ian Michael Trotter</copyright>
-    <lastBuildDate>Sun, 24 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018 Ian Michael Trotter</copyright>
+    <lastBuildDate>Sat, 14 Oct 2017 23:00:00 -0300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Developing the Norwegian Energy System in the European Energy Transition (NORENS)</title>
+      <link>http://www.iantrotter.com/project/norens/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/project/norens/</guid>
+      <description>&lt;p&gt;The primary objective of NORENS is to develop a broader and better knowlegde base for the problem of planning an efficient, profitable and robust electricity production and transmission infrastructure for Norway in light of the ongoing transition of the European energy system.&lt;/p&gt;
+
+&lt;p&gt;This project is a collaboration between researchers at the &lt;a href=&#34;https://www.nmbu.no/en/faculty/mina&#34; target=&#34;_blank&#34;&gt;Faculty of Environmental Sciences and Natural Resource Management (MINA)&lt;/a&gt; and the &lt;a href=&#34;https://www.nmbu.no/en/faculty/hh&#34; target=&#34;_blank&#34;&gt;School of Economics and Business&lt;/a&gt; at the &lt;a href=&#34;https://www.nmbu.no/en&#34; target=&#34;_blank&#34;&gt;Norwegian University of Life Sciences&lt;/a&gt;, the &lt;a href=&#34;https://www.cicero.uio.no/en&#34; target=&#34;_blank&#34;&gt;Center for International Climate Research&lt;/a&gt; at the &lt;a href=&#34;http://www.uio.no/&#34; target=&#34;_blank&#34;&gt;University of Oslo&lt;/a&gt;, the &lt;a href=&#34;http://www.dtu.dk/english&#34; target=&#34;_blank&#34;&gt;Technical University of Denmark (DTU)&lt;/a&gt;, the &lt;a href=&#34;https://www.ufv.br/&#34; target=&#34;_blank&#34;&gt;Federal University of Viçosa&lt;/a&gt;, the &lt;a href=&#34;https://www.uni-oldenburg.de/en/&#34; target=&#34;_blank&#34;&gt;University of Oldenburg&lt;/a&gt; and &lt;a href=&#34;https://www.nve.no/english/&#34; target=&#34;_blank&#34;&gt;The Norwegian Water Resources and Energy Directorate (NVE)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In addition, the project is backed by a number of industrial partners &amp;ndash; &lt;a href=&#34;http://www.statnett.no/en/&#34; target=&#34;_blank&#34;&gt;Statnett&lt;/a&gt;, &lt;a href=&#34;https://www.nve.no/english/&#34; target=&#34;_blank&#34;&gt;The Norwegian Water Resources and Energy Directorate (NVE)&lt;/a&gt; and &lt;a href=&#34;http://www.ostfoldenergi.no/&#34; target=&#34;_blank&#34;&gt;Østfold Energi&lt;/a&gt; &amp;ndash; and is supported by the &lt;a href=&#34;https://www.forskningsradet.no/prognett-energix/Home_page/1253980140022&#34; target=&#34;_blank&#34;&gt;ENERGIX programme&lt;/a&gt; of the &lt;a href=&#34;https://www.forskningsradet.no/&#34; target=&#34;_blank&#34;&gt;Norwegian Research Council&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reverse the Curse: Can Quantum Computing Lift Bellman’s Curse of Dimensionality?</title>
+      <link>http://www.iantrotter.com/project/reverse-the-curse/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/project/reverse-the-curse/</guid>
+      <description>&lt;p&gt;The purpose of this research is to develop improved methods for the numerical resolution of stochastic dynamic optimisation problems. Although Bellman’s infamous “curse of dimensionality” impedes the numerical resolution of all but the simplest such problems, approximation methods have had considerable success. At the same time, recent research shows that the quantum computing paradigm could revolutionise the resolution of optimisation problems.&lt;/p&gt;
+
+&lt;p&gt;However, no research appears yet to have considered the application of quantum computing to stochastic dynamic optimisation problems. This research proposes the development of new algorithms that leverage the power of both approximation methods and quantum computing, in order to improve performance and enable the resolution of larger instances of such problems than is currently possible.&lt;/p&gt;
+
+&lt;p&gt;This project is supported by &lt;a href=&#34;https://serrapilheira.org/&#34; target=&#34;_blank&#34;&gt;Instituto Serrapilheira&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accelerating Numerical Stochastic Dynamic Optimisation for Applied Economics</title>
+      <link>http://www.iantrotter.com/project/accelerating-sdp/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/project/accelerating-sdp/</guid>
+      <description>&lt;p&gt;Stochastic dynamic optimisation problems are found in several branches of economics: consumer theory, producer theory, resource economics, macroeconomics, game theory, operations research, and so forth. And most of the time, the numerical resolution of these problems is considered computationally intractable due to the so-called &amp;ldquo;curse of dimensionality&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;The main goal of this project is to develop new computational methods for the numerical resolution of stochastic dynamic optimisation problems. Improved techniques for resolving this problem class could have a great impact on society, as it would improve decision support systems for a large number of institutions, and for instance improve the management of natural resources, adaptation to and mitigation of climate change, financial management and business decisions.&lt;/p&gt;
+
+&lt;p&gt;This project is supported by FAPEMIG.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Phd Thesis Won an Award</title>
+      <link>http://www.iantrotter.com/post/phd-thesis-award/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 -0200</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/phd-thesis-award/</guid>
+      <description>&lt;p&gt;On wednesday last week, the winners of the awards (one per field) for &lt;a href=&#34;http://capes.gov.br/sala-de-imprensa/noticias/8592-premio-capes-seleciona-melhores-teses-defendidas-em-2016&#34; target=&#34;_blank&#34;&gt;best PhD theses in Brazil in 2016 were announced&lt;/a&gt;. And, lo and behold, there was &lt;a href=&#34;http://capes.gov.br/images/stories/download/legislacao/Portaria-199-Premio-Capes-de-Tese-2017.pdf&#34; target=&#34;_blank&#34;&gt;my name in the official gazette&lt;/a&gt; &amp;ndash; receiving the award in the field of economics for my &lt;a href=&#34;http://www.iantrotter.com/files/Thesis_Ian_Trotter.pdf&#34;&gt;thesis on energy and climate change&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;First of all, I am grateful for receiving some recognition for all the hard work that went into the thesis. As anyone who has done a PhD probably knows: it takes dedication, a lot of elbow grease and many sleepless nights to complete a PhD.&lt;/p&gt;
+
+&lt;p&gt;Secondly, I appreciate the opportunity to draw some additional attention to my own research, and to the excellent research of my friends and colleagues, as well as to &lt;a href=&#34;http://www.poseconomiaaplicada.ufv.br/&#34; target=&#34;_blank&#34;&gt;my graduate program&lt;/a&gt;, &lt;a href=&#34;http://www.der.ufv.br/&#34; target=&#34;_blank&#34;&gt;my department&lt;/a&gt; and &lt;a href=&#34;http://www.ufv.br/&#34; target=&#34;_blank&#34;&gt;my institution&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Even so, however, I am wary of awards in science, which might be an attitude I picked from reading Dr. Richard Feynman&amp;rsquo;s autobiography when I was in high school. Mainly there are two reasons why I&amp;rsquo;m not such a great fan of awards in science:&lt;/p&gt;
+
+&lt;p&gt;Firstly, science is &amp;ndash; directly or indirectly &amp;ndash; a collaborative effort. Even if the scientist receiving the award may not have been working on a team, we are all standing on shoulders of giants and our work has been enabled by those who came before us. To bestow an award only on the scientist who happened to dot the i&amp;rsquo;s and cross the t&amp;rsquo;s, one is perhaps not paying sufficient attention to the entire foundation on which the work rests.&lt;/p&gt;
+
+&lt;p&gt;Secondly, there is no way to objectively compare works against each other and rank them, especially so shortly after publication, and I find it slightly pretentious to pretend to have that ability. The impact or importance of a discovery is often only obvious after many years, sometimes decades or centuries. In this sense, awards are more reminiscent of a popularity contest than a science contest, rewarding only those contributions whose impacts are immediately obvious and recognised (usually because they are uncontroversial and not too far from the dominating view of the time). Science already advances one funeral at the time, according to Planck, and handing out awards to those whose discoveries conform to expectations will help perpetuate scientific orthodoxy.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, though, awards in science seem relatively harmless. Sometimes it is worthwhile to pay a particular homage to the anchor of the relay race of science. And so what if not all awarded discoveries age that well? That appears to happen to all types of awards (e.g. Titanic). It&amp;rsquo;s still a great opportunity to make some fanfare, drum up some positive press, celebrate our collective achievements and, perhaps, increase the overall interest in science.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PAEG</title>
+      <link>http://www.iantrotter.com/project/paeg/</link>
+      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/project/paeg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Website Launched!</title>
@@ -47,15 +121,6 @@
     </item>
     
     <item>
-      <title>Approximate Dynamic Programming in Parallel</title>
-      <link>http://www.iantrotter.com/talk/icsp2016/</link>
-      <pubDate>Thu, 30 Jun 2016 11:15:00 +0000</pubDate>
-      
-      <guid>http://www.iantrotter.com/talk/icsp2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Optimal LNG (liquefied natural gas) regasification scheduling for import terminals with storage</title>
       <link>http://www.iantrotter.com/publication/optimal-regasification/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
@@ -70,33 +135,6 @@
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.iantrotter.com/publication/electricity-demand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>http://www.iantrotter.com/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.iantrotter.com/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>http://www.iantrotter.com/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.iantrotter.com/project/example-external-project/</guid>
       <description></description>
     </item>
     
