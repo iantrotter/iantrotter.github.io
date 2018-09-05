@@ -22,6 +22,17 @@
     </item>
     
     <item>
+      <title>Two Incredibly Useful Taylor Expansions</title>
+      <link>http://www.iantrotter.com/post/twotaylorexpansions/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/twotaylorexpansions/</guid>
+      <description>&lt;p&gt;A &amp;ldquo;Taylor expansions&amp;rdquo; is a polynomial that approximates a function in a small vicinity of a single point. They are exceptionally useful: in general, we are pretty good at solving problems involving polynomials and pretty rubbish at solving problems involving pretty much anything else. Here, we show you two elegant Taylor expansions that keep showing up here and there in different areas of research.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>The rule of 72</title>
       <link>http://www.iantrotter.com/post/rule-of-72/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 -0300</pubDate>
