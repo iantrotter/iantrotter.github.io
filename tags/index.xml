@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Books</title>
+      <link>http://www.iantrotter.com/tags/books/</link>
+      <pubDate>Wed, 20 Jun 2018 15:39:09 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dynamic programming</title>
       <link>http://www.iantrotter.com/tags/dynamic-programming/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
@@ -99,6 +108,33 @@
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.iantrotter.com/tags/quantum-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://www.iantrotter.com/tags/research/</link>
+      <pubDate>Wed, 28 Feb 2018 21:59:23 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDP</title>
+      <link>http://www.iantrotter.com/tags/sdp/</link>
+      <pubDate>Wed, 28 Feb 2018 21:59:23 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/tags/sdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Dynamic Optimisation</title>
+      <link>http://www.iantrotter.com/tags/stochastic-dynamic-optimisation/</link>
+      <pubDate>Wed, 20 Jun 2018 15:39:09 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/tags/stochastic-dynamic-optimisation/</guid>
       <description></description>
     </item>
     

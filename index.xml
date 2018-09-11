@@ -45,6 +45,162 @@
     </item>
     
     <item>
+      <title>A Multidimensional Failure</title>
+      <link>http://www.iantrotter.com/post/multidimensional-failure/</link>
+      <pubDate>Sun, 26 Aug 2018 09:51:39 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/multidimensional-failure/</guid>
+      <description>&lt;p&gt;When doing research &amp;ndash; venturing into the great unknown &amp;ndash; one does not always know if one&amp;rsquo;s ideas will work out or not. I think it is inevitable that one spends time pursuing and nurturing some idea that, in the very end, turns out not to be so good. Or downright terrible, in some cases. Although some may not find this kind of thing worthy to discuss, maybe a small note here could help some other researcher avoid wasting their precious time and coming to the same dead end. So here&amp;rsquo;s a little story of my failed idea.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;In the beginning, I thought it was a great idea: I would simply take the leveling algorithm discussed in Warren B. Powell&amp;rsquo;s &amp;ldquo;Approximate Dynamic Programming&amp;rdquo; &amp;ndash; in which it is presented in a unidimensional context &amp;ndash; and then generalise it, so that I could use it on a multidimensional problem.&lt;/p&gt;
+
+&lt;p&gt;More specifically, I wanted to use it on a space with 48 dimensions, which is not even a very large number of dimensions (but certainly nothing to sneer at either). That is, I wanted a way to gradually improve my value function, learning while simulating the system. I&amp;rsquo;ve used this algorithm in the unidimensional case before, and it is simple and performs well.&lt;/p&gt;
+
+&lt;p&gt;In one dimension, at every sample obtained from the value function, I would simply split the segment of the value function into two parts. After spending a long time thinking about how to do it in two dimensions, I finally realised that it would require splitting the value function into four intervals at the arrival of every new sample. After spending even more time thinking about the three-dimensional case, I realised that I would then need to split the value function into eight intervals at the arrival of every new sample.&lt;/p&gt;
+
+&lt;p&gt;At that time, it dawned on me: the arrival of each new sample would require me to split one interval of the value function into $2^n$ intervals, in which $n$ is the number of dimensions. For a low number of dimensions this is doable &amp;ndash; for 48 dimensions, not possible: $2^{48} \approx 2.8 \times 10^{14}$. No matter how great your computer, or how efficient your program, this is simply unviable!&lt;/p&gt;
+
+&lt;p&gt;This setback throws a spanner in the works for the algorithm that I&amp;rsquo;m developing. Now I will have to find a different way to represent and learn my value function.&lt;/p&gt;
+
+&lt;p&gt;Through this, I gained a very healthy dose of appreciation for &amp;ldquo;cutting planes&amp;rdquo;, which has now become one of my new favourite tools. (Let&amp;rsquo;s see how long it takes before I run into troubles again this time!)&lt;/p&gt;
+
+&lt;p&gt;Effort wasted on an idea that eventually could never work. But, such is the nature of scientific research!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SDP&#43;QC: A Short Progress Report</title>
+      <link>http://www.iantrotter.com/post/serra-progress-1/</link>
+      <pubDate>Fri, 10 Aug 2018 13:38:58 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/serra-progress-1/</guid>
+      <description>&lt;p&gt;The research project on &lt;a href=&#34;http://www.iantrotter.com/project/reverse-the-curse/&#34;&gt;quantum computing and stochastic dynamic optimisation&lt;/a&gt; is just hitting its stride, and we&amp;rsquo;re getting closer to showing some very exciting results!&lt;/p&gt;
+
+&lt;p&gt;The project is well underway &amp;ndash; about halfway through its planned course &amp;ndash; so it&amp;rsquo;s about time to take stock and see where this is going.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;The current phase of the project, according to the research proposal, is mainly about investigating approximation algorithms for stochastic dynamic optimisation problems, and we are currently working on a implementing a particularly promising approach, and have obtained some preliminary results showing that the approach can reduce the computational by around 60%-70%. Since we are applying the approach to two different classes of problems, we are writing two separate papers about this particular approach. Results from this line of inquiry will probably be available in about one to two months.&lt;/p&gt;
+
+&lt;p&gt;In addition, we are working on an interesting new proof for a fundamental theorem in optimisation, which will hopefully work out. The theorem is interesting, as it creates a bridge between some sub-areas of mathematics that were not related earlier.&lt;/p&gt;
+
+&lt;p&gt;We organised a small, but very interesting, workshop in June, which united a small number of passionate research scientists to discuss the frontiers of stochastic dynamic optimisation problems.&lt;/p&gt;
+
+&lt;p&gt;The project website is live and is being updated regularly, which hopefully increases the awareness of our humble research project.&lt;/p&gt;
+
+&lt;p&gt;According to the plan, we should have published a test suite of stochastic dynamic optimisation problems already, but this activity has been delayed &amp;ndash; we would like to publish the problems only after we have a reasonable idea of how to solve them and what the solution should be. Otherwise, publishing the problems may be somewhat confusing, and also we risk publishing problems with undetected errors if they are untested, which would be embarrassing.&lt;/p&gt;
+
+&lt;p&gt;After completing the two papers using the current approach, we aim to test another approximate dynamic programming approach. Work on this will presumably start in mid-October. At the same time, we will also start heavily studying quantum computers and quantum algorithms.&lt;/p&gt;
+
+&lt;p&gt;In short, the research project is mostly developing according to the original research plan: the workshop was arranged a little later than projected, and the set of test problems is being delayed &amp;ndash; otherwise, we are on schedule! (Let&amp;rsquo;s hope we can keep it that way!)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Reinforcements are Coming!</title>
+      <link>http://www.iantrotter.com/post/reinforcements/</link>
+      <pubDate>Thu, 12 Jul 2018 16:20:26 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/reinforcements/</guid>
+      <description>&lt;p&gt;As part of my research project on &lt;a href=&#34;http://www.iantrotter.com/project/reverse-the-curse/&#34;&gt;stochastic dynamic programming and quantum computing&lt;/a&gt;, I find myself having to do a lot of heavy calculations lately. Waiting anxiously for a long time for a new set of results (or waiting to find out that the calculation just failed spectacularly) is one of the least enjoyable aspects of this kind of research. In an attempt to reduce this to a minimum, I decided to splash out on a brand new workstation &amp;ndash; hopefully it will make me a much more productive and efficient researcher!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;The workstation that I finally decided to get, has a AMD ThreadRipper processor with 16 cores, has 128GB of RAM, a 2TB NVMe solid-state disc, and of course a NVIDIA GeForce 1080Ti. The only problem is that no such beast is available in retail here in Brazil (as far as I know!), and I had to have it shipped from the US, which unfortunately takes many months. Probably, the hardware will all be old by the time it gets here &amp;ndash; and there is a remote possibility even the research project may be ending by the time it arrives!&lt;/p&gt;
+
+&lt;p&gt;In either case, such a machine will definitely alleviate some of the problems with the high computational effort required for the stochastic. But not only will the workstation compute much faster than the hardware I currently use, it will also be able to solve problems that are beyond the realm of my current hardware, mostly due to the 128GB of RAM (since my current machine is maxed out at 32GB). This is a significant upgrade, not only in terms of computational speed, but also in terms of the size of problem that I will be able to play with.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m very grateful to the &lt;a href=&#34;https://serrapilheira.org/&#34; target=&#34;_blank&#34;&gt;Serrapilheira Institute&lt;/a&gt;, which have generously funded my research project, and which are therefore paying for this new piece of kit.&lt;/p&gt;
+
+&lt;p&gt;I anxiously await the arrival of reinforcements!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stochastic Dynamic Optimisation Reading List</title>
+      <link>http://www.iantrotter.com/post/sdp-literature/</link>
+      <pubDate>Wed, 20 Jun 2018 15:39:09 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/sdp-literature/</guid>
+      <description>&lt;p&gt;As part of my project on &lt;a href=&#34;http://www.iantrotter.com/project/reverse-the-curse/&#34;&gt;stochastic dynamic optimisation&lt;/a&gt;, I am knee-deep in good literature on the subject. So here is some literature that I recommend for getting acquainted with the subject. Some are research articles of particular note, and some are textbooks &amp;ndash; but they should all be accessible to someone at an advanced undergraduate level and above.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;There are currently two main textbooks that I am using as references for all things stochastic dynamic optimisation:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Approximate Dynamic Programming&amp;rdquo;&lt;/strong&gt; by Warren B. Powell, which reads relatively easy and presents a fascinating view of the subject, together with the historical roots within many fields of research. The author has a great overview of the field, and combines fields of research that were previously considered disting or even competing. But more than a technical reference, the book is inspiring and makes you feel that there are vast unexplored possibilities, and shows the reader how to go about exploring those possibilities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Dynamic Programming and Optimal Control&amp;rdquo;&lt;/strong&gt; by Dimitri P. Bertsekas, which is one of the giants of the field. The book contains everything you will need to know, and to a great level of detail. There are two volumes, and they&amp;rsquo;re in their 4th edition. You&amp;rsquo;ve probably seen this book being referred to before, because it is simply awesome. It is much heavier than Powell&amp;rsquo;s book, more detailed and more &amp;ldquo;academic&amp;rdquo;, in a sense. In a good sense, that is. Highly recommended, and great to have around as a reference.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Apart from these two textbooks, I would like to recommend two research articles that I find particularly inspiring that solve stochastic dynamic optimisation problems:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;&lt;strong&gt;Multi-stage stochastic optimization applied to energy planning&lt;/strong&gt;&amp;rdquo; by Pereira and Pinto (1991). This article is ingenious, and forever changed the way the hydrothermal scheduling is thought about all over the world. They had the great idea of approximating the future value function in the hydrothermal scheduling problem with a piecewise linear function, and then use the dual variables from the linear optimisation problem to construct the cutting planes and approximate the value function. It is a brilliant idea, but the article is humble and unassuming, yet introduces one groundbreaking result after another. This is an article that changed the world forever, but it might be hard to appreciate this fact without knowing what the state-of-the-art for the hydrothermal scheduling problem was like at the time.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;strong&gt;SMART: A Stochastic Multiscale Model for the Analysis of Energy Resources, Technology, and Policy&lt;/strong&gt;&amp;rdquo; by Powell et al. is another article that solves the hydrothermal dispatch problem. The authors managed to exploit theoretical properties of the value function in order to solve (approximately) a huge resource management problem with a detailed model at an hourly resolution, for a planning horizon of several decades. That is, they solved a problem with hundreds of thousands of time periods, which is very impressive.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I realise that my two favourite articles both solve the hydrothermal dispatch problem. But that is, after all, one of my favourite problems, and one of the best showcases of stochastic dynamic optimisation: it is an important and tangible problem with a deep theory behind it.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Workshop on Stochastic Dynamic Optimisation</title>
+      <link>http://www.iantrotter.com/post/sdp-workshop/</link>
+      <pubDate>Thu, 14 Jun 2018 12:07:01 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/sdp-workshop/</guid>
+      <description>&lt;p&gt;As part of my research project on &lt;a href=&#34;http://www.iantrotter.com/project/reverse-the-curse/&#34;&gt;quantum computing and stochastic dynamic optimisation&lt;/a&gt;, I have invited a small number of researchers to a workshop to talk about stochastic dynamic optimisation.&lt;/p&gt;
+
+&lt;p&gt;If anybody reading this would like to join the workshop, please don&amp;rsquo;t hesitate to reach out.&lt;/p&gt;
+
+&lt;p&gt;If two heads are better than one, then just imagine how great a roomful of research scientists must be!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Testing the Julia Programming Language</title>
+      <link>http://www.iantrotter.com/post/julia/</link>
+      <pubDate>Thu, 10 May 2018 15:15:02 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/julia/</guid>
+      <description>&lt;p&gt;I have been hearing a lot about the &lt;a href=&#34;https://julialang.org/&#34; target=&#34;_blank&#34;&gt;Julia programming language&lt;/a&gt; lately. And what I&amp;rsquo;ve been hearing is basically that it is &amp;ldquo;(nearly) as fast as C/C++&amp;rdquo; and &amp;ldquo;as easy as Python&amp;rdquo;. Since my research relies heavily on computations, I thought it might be good to try using it in my project on &lt;a href=&#34;http://www.iantrotter.com/project/reverse-the-curse/&#34;&gt;stochastic dynamic optimisation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Does it fit the bill?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;After two weeks writing in the new programming language, the answer so far is a big &amp;ldquo;maybe&amp;rdquo;. It has some very big advantages:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The package management approach is awesome (Pkg.add FTW!).&lt;/li&gt;
+&lt;li&gt;Many packages readily available makes scientific computing quite accessible.&lt;/li&gt;
+&lt;li&gt;The syntax seems to have been heavily inspired by the better parts of Matlab, Python and R, so it probably feels relatively intuitive for the average scientific computer.&lt;/li&gt;
+&lt;li&gt;It appears to be fairly fast, but&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The big disadvantage is the &amp;ldquo;but&amp;rdquo; in the &amp;ldquo;fairly fast&amp;rdquo; (although I realise this &amp;ldquo;disadvantage&amp;rdquo; may be just me fitting it into my workflow in the &amp;ldquo;wrong&amp;rdquo; way): it takes forever to run the shortest little program. It has a really heavy start-up time, presumably loading the packages and compiling the packages so that it will execute faster at a later stage. But within my workflow, I like to run the program from the start repeatedly, and this ends up being time-consuming.&lt;/p&gt;
+
+&lt;p&gt;I think I&amp;rsquo;m going to try to stick with it for a little more, perhaps try to change my workflow to avoid the ridiculous start-up times. Other than the start-up times, the experience has been quite positive, and I&amp;rsquo;m feeling excited to be learning a new language meant for scientific computing.&lt;/p&gt;
+
+&lt;p&gt;I will still continue to use Python, R and Matlab, but maybe Julia can replace C/C++ in my workflow. I mainly use these two to do heavier computations that are too slow in the others (and which I can&amp;rsquo;t find a nice way to vectorise).&lt;/p&gt;
+
+&lt;p&gt;Not quite a replacement, perhaps, but it never hurts to have another tool in the toolbox!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Serrapilheira Event in Rio</title>
+      <link>http://www.iantrotter.com/post/serrapilheira-event/</link>
+      <pubDate>Tue, 17 Apr 2018 06:03:53 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/serrapilheira-event/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://serrapilheira.org/&#34; target=&#34;_blank&#34;&gt;Instituto Serrapilheira&lt;/a&gt; has invited all their grantees from their first call to an event in Rio de Janeira this week. It is a great opportunity to meet young, talented scientists from all over Brazil.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://serrapilheira.org/&#34; target=&#34;_blank&#34;&gt;Instituto Serrapilheira&lt;/a&gt; has very generously sponsored my &lt;a href=&#34;http://www.iantrotter.com/project/reverse-the-curse/&#34;&gt;project about stochastic dynamic optimisation&lt;/a&gt;, and I&amp;rsquo;m looking forward to finally meeting the people behind it. Not only does the institute fund scientific research projects, but I really like their focus on both diversity and open science &amp;ndash; values that personally appeal to me.&lt;/p&gt;
+
+&lt;p&gt;The world could use a few more Serrapilheiras!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Two Incredibly Useful Taylor Expansions</title>
       <link>http://www.iantrotter.com/post/twotaylorexpansions/</link>
       <pubDate>Tue, 20 Mar 2018 00:00:00 -0300</pubDate>
@@ -87,6 +243,41 @@ $$ \ln(1+x) \approx x$$&lt;/p&gt;
 &lt;hr /&gt;
 
 &lt;p&gt;Sometimes we can solve a problem &lt;em&gt;almost&lt;/em&gt; correctly in a small fraction of the time it takes to solve the problem exactly. This post is an appreciation of approximation methods, related to my project on &lt;a href=&#34;http://www.iantrotter.com/project/reverse-the-curse/&#34;&gt;approximate solutions to stochastic dynamic optimisation problems&lt;/a&gt;, funded by &lt;a href=&#34;https://serrapilheira.org/en/&#34; target=&#34;_blank&#34;&gt;Instituto Serraphilheira&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Everything is a Stochastic Dynamic Optimisation Problem!</title>
+      <link>http://www.iantrotter.com/post/everything-is-sdp/</link>
+      <pubDate>Wed, 28 Feb 2018 21:59:23 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/everything-is-sdp/</guid>
+      <description>&lt;p&gt;Stochastic dynamic optimisation problems are everywhere &amp;ndash; quite simply because most of the choices we make have consequences in the future, and incorporate some uncertainty: this means that the decision process needs to take into account not only whatever happens at the moment that the decision is made, but also how it may impact future decisions. These are common characteristics of real-world problems &amp;ndash; and all such problems present a great opportunity to study the art and science of stochastic dynamic optimisation!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;There are a wealth of problems that fall within stochastic dynamic optimisation problems, innumerably many in fact.&lt;/p&gt;
+
+&lt;p&gt;Here is a small set of examples of real-world problems which can be modelled as stochastic dynamic optimisation problems:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Inventory problems such as warehousing&lt;/li&gt;
+&lt;li&gt;Natural resource management such as land use problems, timber management, and water resource management&lt;/li&gt;
+&lt;li&gt;Economic growth&lt;/li&gt;
+&lt;li&gt;Logistical problems such as route determination and shortest path problems&lt;/li&gt;
+&lt;li&gt;Scheduling problems such as airline scheduling&lt;/li&gt;
+&lt;li&gt;Option valuation problems&lt;/li&gt;
+&lt;li&gt;Irreversable investment decisions (closely related to option valuation theory!)&lt;/li&gt;
+&lt;li&gt;Monetary policy&lt;/li&gt;
+&lt;li&gt;Portfolio management&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The problem is, though, that we are only capable of treating the very simplest of these problems exactly. The so-called &amp;ldquo;curse of dimensionality&amp;rdquo; kicks in very quickly, and we are overwhelmed by the number of possible future scenarios. Most practical applications, therefore, have to rely on solving the problem approximately and with very clever algorithms.&lt;/p&gt;
+
+&lt;p&gt;That means that approximation methods for this type of problem are essential. And any trick that the structure of each specific problem permits, must be used to the maximum extent. Those that find and are able to exploit latent structures within the problem, and make the appropriate approximations, are handsomely rewarded: some exemplary studies have managed to treat problems with thousands of decision and state variables, and hundreds of thousands of time periods. Such examples are rare, but very impressive.&lt;/p&gt;
+
+&lt;p&gt;The field that is consolidating under the name &lt;em&gt;Approximate Dynamic Programming&lt;/em&gt; attempts to do exactly this: combining insight into the problem structure with advanced numerical methods in order to solve problems that were previously intractable. And some amazing new problems are being solved. Well, solved &lt;em&gt;approximately&lt;/em&gt;, that is. Usually the solutions are &lt;em&gt;nearly&lt;/em&gt; optimal, but available at a much, much lower computational cost.&lt;/p&gt;
+
+&lt;p&gt;This is a field in which mathematical creativity meets pragmatism in order to create new solutions, using advanced mathematics, numerical methods and technology to solve problems that have a large impact on the real world: an exciting area of research where results can have a profound impact.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -221,6 +412,31 @@ And there you have it: the rule of 72. A simple approximation rule for thinking 
     </item>
     
     <item>
+      <title>Kicking Off the Research Project on Stochastic Dynamic Optimisation</title>
+      <link>http://www.iantrotter.com/post/serra-start/</link>
+      <pubDate>Sun, 25 Feb 2018 09:07:06 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/serra-start/</guid>
+      <description>&lt;p&gt;We are now in the process of starting up the research project &lt;a href=&#34;http://www.iantrotter.com/project/reverse-the-curse/&#34;&gt;&amp;ldquo;Reverse the Curse: Can Quantum Computing Lift Bellman’s Curse of Dimensionality?&amp;rdquo;&lt;/a&gt;, which received financial support from &lt;a href=&#34;https://serrapilheira.org/&#34; target=&#34;_blank&#34;&gt;Instituto Serrapilheira&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;The research project combined two important topics that I have been thinking about for a long time already.&lt;/p&gt;
+
+&lt;p&gt;Firstly, people who know me will not be surprised to see that I continue to work on stochastic dynamic optimisation problems &amp;ndash; also known as &amp;ldquo;stochastic dynamic programming&amp;rdquo; problems, but I prefer &amp;ldquo;optimisation&amp;rdquo;, since (mathematical) &amp;ldquo;programming&amp;rdquo; is often confused with &lt;em&gt;computer programming&lt;/em&gt; &amp;ndash; and to add to the confusion, my research involves both! This is a problem class that pops up absolutely everywhere, and has been a great obsession of mine ever since I first encountered it when working with valuation of natural gas storage. It was love at first sight, and currently permeates pretty much all my work. It is an incredible privilege to be able to follow my passion for (numerical) stochastic dynamic optimisation.&lt;/p&gt;
+
+&lt;p&gt;The surprise in this research project is the inclusion of quantum computing. The last few years we have seen amazing developments &amp;ndash; theoretical and practical &amp;ndash; in quantum computing. I won&amp;rsquo;t hesitate to admit that I am very new to quantum computing, my understanding of it leaves much to be desired, and the whole subject is massively intimidating. I&amp;rsquo;m sure I&amp;rsquo;m not the only one who feels that way.&lt;/p&gt;
+
+&lt;p&gt;However, it is an interesting frontier of research, and it is so promising that we can&amp;rsquo;t help but wonder what possibilities lay ahead. Is it possible that this new computing paradigm can help me solve larger and more complex stochastic dynamic optimisation problems than we are currently capable of handling? Or is it, perhaps, a dead end? Or perhaps somebody already did, but I don&amp;rsquo;t know about it yet? Or maybe it is even obvious for those who are more familiar with quantum computing whether it is worth pursuing or not?&lt;/p&gt;
+
+&lt;p&gt;So here we go, venturing into the unknown, without knowing what lies ahead. Humble about our shortcomings, our lack of knowledge and understanding, yet at the same time excited to satisfy our curiosity.&lt;/p&gt;
+
+&lt;p&gt;For the next year, we will work tirelessly on stochastic dynamic optimisation problems. The first step is to study state-of-the-art approximation algorithms for these problems, and attempt to make some contributions of our own. In a second stage of the project &amp;ndash; conditional on additional funding &amp;ndash; the deeper understanding gained from working with approximation algorithms will be leveraged, in which we aim to combine our understanding of powerful approximation methods for stochastic dynamic optimisation with quantum computing paradigms.&lt;/p&gt;
+
+&lt;p&gt;These days, it feels like we are at the dawn of the quantum computing era. Let&amp;rsquo;s make sure we are well prepared for it.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Developing the Norwegian Energy System in the European Energy Transition (NORENS)</title>
       <link>http://www.iantrotter.com/project/norens/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
@@ -232,120 +448,6 @@ And there you have it: the rule of 72. A simple approximation rule for thinking 
 
 &lt;p&gt;In addition, the project is backed by a number of industrial partners &amp;ndash; &lt;a href=&#34;http://www.statnett.no/en/&#34; target=&#34;_blank&#34;&gt;Statnett&lt;/a&gt;, &lt;a href=&#34;https://www.nve.no/english/&#34; target=&#34;_blank&#34;&gt;The Norwegian Water Resources and Energy Directorate (NVE)&lt;/a&gt; and &lt;a href=&#34;http://www.ostfoldenergi.no/&#34; target=&#34;_blank&#34;&gt;Østfold Energi&lt;/a&gt; &amp;ndash; and is supported by the &lt;a href=&#34;https://www.forskningsradet.no/prognett-energix/Home_page/1253980140022&#34; target=&#34;_blank&#34;&gt;ENERGIX programme&lt;/a&gt; of the &lt;a href=&#34;https://www.forskningsradet.no/&#34; target=&#34;_blank&#34;&gt;Norwegian Research Council&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Reverse the Curse: Can Quantum Computing Lift Bellman’s Curse of Dimensionality?</title>
-      <link>http://www.iantrotter.com/project/reverse-the-curse/</link>
-      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.iantrotter.com/project/reverse-the-curse/</guid>
-      <description>&lt;p&gt;The purpose of this research is to develop improved methods for the numerical resolution of stochastic dynamic optimisation problems. Although Bellman’s infamous “curse of dimensionality” impedes the numerical resolution of all but the simplest such problems, approximation methods have had considerable success. At the same time, recent research shows that the quantum computing paradigm could revolutionise the resolution of optimisation problems.&lt;/p&gt;
-
-&lt;p&gt;However, no research appears yet to have considered the application of quantum computing to stochastic dynamic optimisation problems. This research proposes the development of new algorithms that leverage the power of both approximation methods and quantum computing, in order to improve performance and enable the resolution of larger instances of such problems than is currently possible.&lt;/p&gt;
-
-&lt;p&gt;This project is supported by &lt;a href=&#34;https://serrapilheira.org/&#34; target=&#34;_blank&#34;&gt;Instituto Serrapilheira&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Accelerating Numerical Stochastic Dynamic Optimisation for Applied Economics</title>
-      <link>http://www.iantrotter.com/project/accelerating-sdp/</link>
-      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.iantrotter.com/project/accelerating-sdp/</guid>
-      <description>&lt;p&gt;Stochastic dynamic optimisation problems are found in several branches of economics: consumer theory, producer theory, resource economics, macroeconomics, game theory, operations research, and so forth. And most of the time, the numerical resolution of these problems is considered computationally intractable due to the so-called &amp;ldquo;curse of dimensionality&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;The main goal of this project is to develop new computational methods for the numerical resolution of stochastic dynamic optimisation problems. Improved techniques for resolving this problem class could have a great impact on society, as it would improve decision support systems for a large number of institutions, and for instance improve the management of natural resources, adaptation to and mitigation of climate change, financial management and business decisions.&lt;/p&gt;
-
-&lt;p&gt;This project is supported by FAPEMIG.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My Phd Thesis Won an Award</title>
-      <link>http://www.iantrotter.com/post/phd-thesis-award/</link>
-      <pubDate>Mon, 16 Oct 2017 00:00:00 -0200</pubDate>
-      
-      <guid>http://www.iantrotter.com/post/phd-thesis-award/</guid>
-      <description>&lt;p&gt;On wednesday last week, the winners of the awards (one per field) for &lt;a href=&#34;http://capes.gov.br/sala-de-imprensa/noticias/8592-premio-capes-seleciona-melhores-teses-defendidas-em-2016&#34; target=&#34;_blank&#34;&gt;best PhD theses in Brazil in 2016 were announced&lt;/a&gt;. And, lo and behold, there was &lt;a href=&#34;http://capes.gov.br/images/stories/download/legislacao/Portaria-199-Premio-Capes-de-Tese-2017.pdf&#34; target=&#34;_blank&#34;&gt;my name in the official gazette&lt;/a&gt; &amp;ndash; receiving the award in the field of economics for my &lt;a href=&#34;http://www.iantrotter.com/files/Thesis_Ian_Trotter.pdf&#34;&gt;thesis on energy and climate change&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;First of all, I am grateful for receiving some recognition for all the hard work that went into the thesis. As anyone who has done a PhD probably knows: it takes dedication, a lot of elbow grease and many sleepless nights to complete a PhD.&lt;/p&gt;
-
-&lt;p&gt;Secondly, I appreciate the opportunity to draw some additional attention to my own research, and to the excellent research of my friends and colleagues, as well as to &lt;a href=&#34;http://www.poseconomiaaplicada.ufv.br/&#34; target=&#34;_blank&#34;&gt;my graduate program&lt;/a&gt;, &lt;a href=&#34;http://www.der.ufv.br/&#34; target=&#34;_blank&#34;&gt;my department&lt;/a&gt; and &lt;a href=&#34;http://www.ufv.br/&#34; target=&#34;_blank&#34;&gt;my institution&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Even so, however, I am wary of awards in science, which might be an attitude I picked from reading Dr. Richard Feynman&amp;rsquo;s autobiography when I was in high school. Mainly there are two reasons why I&amp;rsquo;m not such a great fan of awards in science:&lt;/p&gt;
-
-&lt;p&gt;Firstly, science is &amp;ndash; directly or indirectly &amp;ndash; a collaborative effort. Even if the scientist receiving the award may not have been working on a team, we are all standing on shoulders of giants and our work has been enabled by those who came before us. To bestow an award only on the scientist who happened to dot the i&amp;rsquo;s and cross the t&amp;rsquo;s, one is perhaps not paying sufficient attention to the entire foundation on which the work rests.&lt;/p&gt;
-
-&lt;p&gt;Secondly, there is no way to objectively compare works against each other and rank them, especially so shortly after publication, and I find it slightly pretentious to pretend to have that ability. The impact or importance of a discovery is often only obvious after many years, sometimes decades or centuries. In this sense, awards are more reminiscent of a popularity contest than a science contest, rewarding only those contributions whose impacts are immediately obvious and recognised (usually because they are uncontroversial and not too far from the dominating view of the time). Science already advances one funeral at the time, according to Planck, and handing out awards to those whose discoveries conform to expectations will help perpetuate scientific orthodoxy.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, though, awards in science seem relatively harmless. Sometimes it is worthwhile to pay a particular homage to the anchor of the relay race of science. And so what if not all awarded discoveries age that well? That appears to happen to all types of awards (e.g. Titanic). It&amp;rsquo;s still a great opportunity to make some fanfare, drum up some positive press, celebrate our collective achievements and, perhaps, increase the overall interest in science.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PAEG</title>
-      <link>http://www.iantrotter.com/project/paeg/</link>
-      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.iantrotter.com/project/paeg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Website Launched!</title>
-      <link>http://www.iantrotter.com/post/website-launch/</link>
-      <pubDate>Tue, 26 Sep 2017 09:09:02 -0300</pubDate>
-      
-      <guid>http://www.iantrotter.com/post/website-launch/</guid>
-      <description>&lt;p&gt;Welcome to my researcher profile website! This site will showcase my research, showing both results and work in progress. It feels a little empty at the moment, but it will gradually fill up with interesting content.&lt;/p&gt;
-
-&lt;p&gt;The site was hacked together in a relatively short time using the following components:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Built with &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Using the &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34; target=&#34;_blank&#34;&gt;Academic theme&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Hosted on &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Optimal Fiscal Policy: A Dynamic Analysis for Brazil</title>
-      <link>http://www.iantrotter.com/publication/optimal-fiscal-policy/</link>
-      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.iantrotter.com/publication/optimal-fiscal-policy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Soil and altitude drives diversity and functioning of Brazilian (Campo de Altitude)</title>
-      <link>http://www.iantrotter.com/publication/diversity_drivers/</link>
-      <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.iantrotter.com/publication/diversity_drivers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimal LNG (liquefied natural gas) regasification scheduling for import terminals with storage</title>
-      <link>http://www.iantrotter.com/publication/optimal-regasification/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.iantrotter.com/publication/optimal-regasification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Climate Change and Electricity Demand in Brazil: A Stochastic Approach</title>
-      <link>http://www.iantrotter.com/publication/electricity-demand/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.iantrotter.com/publication/electricity-demand/</guid>
-      <description></description>
     </item>
     
   </channel>

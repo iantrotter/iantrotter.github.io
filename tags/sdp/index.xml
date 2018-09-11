@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SDP on Ian Michael Trotter</title>
+    <link>http://www.iantrotter.com/tags/sdp/</link>
+    <description>Recent content in SDP on Ian Michael Trotter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ian Michael Trotter</copyright>
+    <lastBuildDate>Wed, 28 Feb 2018 21:59:23 -0300</lastBuildDate>
+    
+	<atom:link href="http://www.iantrotter.com/tags/sdp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Everything is a Stochastic Dynamic Optimisation Problem!</title>
+      <link>http://www.iantrotter.com/post/everything-is-sdp/</link>
+      <pubDate>Wed, 28 Feb 2018 21:59:23 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/everything-is-sdp/</guid>
+      <description>&lt;p&gt;Stochastic dynamic optimisation problems are everywhere &amp;ndash; quite simply because most of the choices we make have consequences in the future, and incorporate some uncertainty: this means that the decision process needs to take into account not only whatever happens at the moment that the decision is made, but also how it may impact future decisions. These are common characteristics of real-world problems &amp;ndash; and all such problems present a great opportunity to study the art and science of stochastic dynamic optimisation!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
