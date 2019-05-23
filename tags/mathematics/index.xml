@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mathematics on Ian Michael Trotter</title>
+    <title>mathematics on Ian Michael Trotter</title>
     <link>http://www.iantrotter.com/tags/mathematics/</link>
-    <description>Recent content in Mathematics on Ian Michael Trotter</description>
+    <description>Recent content in mathematics on Ian Michael Trotter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ian Michael Trotter</copyright>
@@ -20,9 +20,7 @@
       <guid>http://www.iantrotter.com/post/rule-of-72/</guid>
       <description>&lt;p&gt;The &amp;ldquo;rule of 72&amp;rdquo; is &amp;ndash; or at least should be &amp;ndash; a standard tool in everyone&amp;rsquo;s mathematical toolkit, and helps us think intuitively about exponential growth and exponential decay.&lt;/p&gt;
 
-&lt;p&gt;But did you ever stop and wonder how and why this black magic incantation actually works?&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;But did you ever stop and wonder how and why this black magic incantation actually works?&lt;/p&gt;</description>
     </item>
     
   </channel>

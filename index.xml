@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ian Michael Trotter on Ian Michael Trotter</title>
@@ -7,8 +6,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ian Michael Trotter</copyright>
-    <lastBuildDate>Sat, 14 Oct 2017 23:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2019 13:10:02 -0300</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Climate Change Scenarios for Paraguayan Power Demand 2017-2050</title>
+      <link>http://www.iantrotter.com/publication/climate-change-paraguay-power/</link>
+      <pubDate>Wed, 22 May 2019 13:10:02 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/publication/climate-change-paraguay-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paraguay Power!</title>
+      <link>http://www.iantrotter.com/post/paraguay-power/</link>
+      <pubDate>Mon, 20 May 2019 20:57:10 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/paraguay-power/</guid>
+      <description>&lt;p&gt;Great news: I had a &lt;a href=&#34;http://www.iantrotter.com/publication/climate-change-paraguay-power/&#34;&gt;paper accepted in &lt;strong&gt;Climatic Change&lt;/strong&gt;&lt;/a&gt; &amp;ndash; a journal that I really enjoy, and follow almost religiously: that journal has some real zingers!&lt;/p&gt;
+
+&lt;p&gt;My former student Angel and I have for two years been working on understanding the impacts of climatic change on electric power demand in Paraguay and projecting it into the future, and this paper was written and rewritten and rewritten again several times, as we gained deeper insights into the Paraguayan energy sector.&lt;/p&gt;
+
+&lt;p&gt;The future of Paraguayan energy is a very important question: Firstly, few studies have been done to understand the impacts of climate change on the energy sector in South America (actually, developing countries in general), and this should help fill a gap in the literature. Secondly, Paraguay has massive potential for hydroelectric energy, but the distribution and transmission infrastructure is completely inadequate, so the potential hasn&amp;rsquo;t contributed to economic growth or development the way it could have &amp;ndash; a deeper understanding of the issue may help unlock some growth potential. And, finally, the renegotiation of the Itaipu treaty with Brazil (expires in 2023) is scheduled to start this year, and demand projections will be needed to see if the Paraguay will have a large oversupply, as they have historically, or if they will need the power themselves (spoiler: not only will the oversupply disappear within the next two decades, but they also have to start thinking about expanding the generation capacity!).&lt;/p&gt;
+
+&lt;p&gt;While the article is in press, you can read the accepted manuscript by following the link below!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.iantrotter.com/publication/climate-change-paraguay-power/&#34;&gt;More info on the publication here!&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>31st International Seminar on Economic Policy</title>
+      <link>http://www.iantrotter.com/post/xxxi-sipe/</link>
+      <pubDate>Wed, 15 May 2019 20:07:01 -0300</pubDate>
+      
+      <guid>http://www.iantrotter.com/post/xxxi-sipe/</guid>
+      <description>&lt;p&gt;We are hosting the 31st International Seminar on Economic Policy here at UFV on the 6th and 7th of November, 2019. The theme this year will be energy, transport and development, and we are already planning a great programme, with lots of interesting speakers. Sadly, funding is a huge uncertainty for any such events in Brazil these days &amp;ndash; the event will probably go ahead regardless of the funding, but funding is essential for bringing in the greatest speakers from all over.&lt;/p&gt;
+
+&lt;p&gt;It will be hard to top last year&amp;rsquo;s success &amp;ndash; I particularly liked the talk of COOL (Country Of Origin Labelling) economist Dan Sumners, who came all the way from UC Davis to explain how he and his team found out that Country of Origin Labelling in the cattle market means that imports are unable to compete with domestic production. We had arranged for a translator to do instant translation during his presentation, but &amp;ndash; for some reason or another &amp;ndash; the translator never showed up, and I ended up having to do it (and I am absolutely not qualified to do that kind of thing, especially not without preparation!). [I wonder what happened to that translator? Anyway, he won&amp;rsquo;t be getting our business again!]&lt;/p&gt;
+
+&lt;p&gt;We will be back with a more detailed program at a later point, but rest assured that the list of confirmed speakers is already long and prestigious!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Computational Tricks for Numeric Stochastic Dynamic Programming: Solving a Large Example with (Relative Ease)</title>
@@ -52,8 +90,6 @@
       <guid>http://www.iantrotter.com/post/multidimensional-failure/</guid>
       <description>&lt;p&gt;When doing research &amp;ndash; venturing into the great unknown &amp;ndash; one does not always know if one&amp;rsquo;s ideas will work out or not. I think it is inevitable that one spends time pursuing and nurturing some idea that, in the very end, turns out not to be so good. Or downright terrible, in some cases. Although some may not find this kind of thing worthy to discuss, maybe a small note here could help some other researcher avoid wasting their precious time and coming to the same dead end. So here&amp;rsquo;s a little story of my failed idea.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
 &lt;p&gt;In the beginning, I thought it was a great idea: I would simply take the leveling algorithm discussed in Warren B. Powell&amp;rsquo;s &amp;ldquo;Approximate Dynamic Programming&amp;rdquo; &amp;ndash; in which it is presented in a unidimensional context &amp;ndash; and then generalise it, so that I could use it on a multidimensional problem.&lt;/p&gt;
 
 &lt;p&gt;More specifically, I wanted to use it on a space with 48 dimensions, which is not even a very large number of dimensions (but certainly nothing to sneer at either). That is, I wanted a way to gradually improve my value function, learning while simulating the system. I&amp;rsquo;ve used this algorithm in the unidimensional case before, and it is simple and performs well.&lt;/p&gt;
@@ -79,8 +115,6 @@
 
 &lt;p&gt;The project is well underway &amp;ndash; about halfway through its planned course &amp;ndash; so it&amp;rsquo;s about time to take stock and see where this is going.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
 &lt;p&gt;The current phase of the project, according to the research proposal, is mainly about investigating approximation algorithms for stochastic dynamic optimisation problems, and we are currently working on a implementing a particularly promising approach, and have obtained some preliminary results showing that the approach can reduce the computational by around 60%-70%. Since we are applying the approach to two different classes of problems, we are writing two separate papers about this particular approach. Results from this line of inquiry will probably be available in about one to two months.&lt;/p&gt;
 
 &lt;p&gt;In addition, we are working on an interesting new proof for a fundamental theorem in optimisation, which will hopefully work out. The theorem is interesting, as it creates a bridge between some sub-areas of mathematics that were not related earlier.&lt;/p&gt;
@@ -104,8 +138,6 @@
       <guid>http://www.iantrotter.com/post/reinforcements/</guid>
       <description>&lt;p&gt;As part of my research project on &lt;a href=&#34;http://www.iantrotter.com/project/reverse-the-curse/&#34;&gt;stochastic dynamic programming and quantum computing&lt;/a&gt;, I find myself having to do a lot of heavy calculations lately. Waiting anxiously for a long time for a new set of results (or waiting to find out that the calculation just failed spectacularly) is one of the least enjoyable aspects of this kind of research. In an attempt to reduce this to a minimum, I decided to splash out on a brand new workstation &amp;ndash; hopefully it will make me a much more productive and efficient researcher!&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
 &lt;p&gt;The workstation that I finally decided to get, has a AMD ThreadRipper processor with 16 cores, has 128GB of RAM, a 2TB NVMe solid-state disc, and of course a NVIDIA GeForce 1080Ti. The only problem is that no such beast is available in retail here in Brazil (as far as I know!), and I had to have it shipped from the US, which unfortunately takes many months. Probably, the hardware will all be old by the time it gets here &amp;ndash; and there is a remote possibility even the research project may be ending by the time it arrives!&lt;/p&gt;
 
 &lt;p&gt;In either case, such a machine will definitely alleviate some of the problems with the high computational effort required for the stochastic. But not only will the workstation compute much faster than the hardware I currently use, it will also be able to solve problems that are beyond the realm of my current hardware, mostly due to the 128GB of RAM (since my current machine is maxed out at 32GB). This is a significant upgrade, not only in terms of computational speed, but also in terms of the size of problem that I will be able to play with.&lt;/p&gt;
@@ -122,8 +154,6 @@
       
       <guid>http://www.iantrotter.com/post/sdp-literature/</guid>
       <description>&lt;p&gt;As part of my project on &lt;a href=&#34;http://www.iantrotter.com/project/reverse-the-curse/&#34;&gt;stochastic dynamic optimisation&lt;/a&gt;, I am knee-deep in good literature on the subject. So here is some literature that I recommend for getting acquainted with the subject. Some are research articles of particular note, and some are textbooks &amp;ndash; but they should all be accessible to someone at an advanced undergraduate level and above.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;There are currently two main textbooks that I am using as references for all things stochastic dynamic optimisation:&lt;/p&gt;
 
@@ -166,8 +196,6 @@
 
 &lt;p&gt;Does it fit the bill?&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
 &lt;p&gt;After two weeks writing in the new programming language, the answer so far is a big &amp;ldquo;maybe&amp;rdquo;. It has some very big advantages:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -207,8 +235,6 @@
       
       <guid>http://www.iantrotter.com/post/twotaylorexpansions/</guid>
       <description>&lt;p&gt;A &amp;ldquo;Taylor expansions&amp;rdquo; is a polynomial that approximates a function in a small vicinity of a single point. They are exceptionally useful: in general, we are pretty good at solving problems involving polynomials and pretty rubbish at solving problems involving pretty much anything else. Here, we show you two elegant Taylor expansions that keep showing up here and there in different areas of research.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;In many dynamic systems, equations or functions you often find a dampening term that looks something like this:
 $$ e^{-\rho t}, \rho &amp;gt; 0 $$
@@ -253,8 +279,6 @@ $$ \ln(1+x) \approx x$$&lt;/p&gt;
       <guid>http://www.iantrotter.com/post/everything-is-sdp/</guid>
       <description>&lt;p&gt;Stochastic dynamic optimisation problems are everywhere &amp;ndash; quite simply because most of the choices we make have consequences in the future, and incorporate some uncertainty: this means that the decision process needs to take into account not only whatever happens at the moment that the decision is made, but also how it may impact future decisions. These are common characteristics of real-world problems &amp;ndash; and all such problems present a great opportunity to study the art and science of stochastic dynamic optimisation!&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
 &lt;p&gt;There are a wealth of problems that fall within stochastic dynamic optimisation problems, innumerably many in fact.&lt;/p&gt;
 
 &lt;p&gt;Here is a small set of examples of real-world problems which can be modelled as stochastic dynamic optimisation problems:&lt;/p&gt;
@@ -278,176 +302,6 @@ $$ \ln(1+x) \approx x$$&lt;/p&gt;
 &lt;p&gt;The field that is consolidating under the name &lt;em&gt;Approximate Dynamic Programming&lt;/em&gt; attempts to do exactly this: combining insight into the problem structure with advanced numerical methods in order to solve problems that were previously intractable. And some amazing new problems are being solved. Well, solved &lt;em&gt;approximately&lt;/em&gt;, that is. Usually the solutions are &lt;em&gt;nearly&lt;/em&gt; optimal, but available at a much, much lower computational cost.&lt;/p&gt;
 
 &lt;p&gt;This is a field in which mathematical creativity meets pragmatism in order to create new solutions, using advanced mathematics, numerical methods and technology to solve problems that have a large impact on the real world: an exciting area of research where results can have a profound impact.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The rule of 72</title>
-      <link>http://www.iantrotter.com/post/rule-of-72/</link>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 -0300</pubDate>
-      
-      <guid>http://www.iantrotter.com/post/rule-of-72/</guid>
-      <description>&lt;p&gt;The &amp;ldquo;rule of 72&amp;rdquo; is &amp;ndash; or at least should be &amp;ndash; a standard tool in everyone&amp;rsquo;s mathematical toolkit, and helps us think intuitively about exponential growth and exponential decay.&lt;/p&gt;
-
-&lt;p&gt;But did you ever stop and wonder how and why this black magic incantation actually works?&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;The rule of 72 says that if you divide the number 72 by the percentage growth rate, you will get approximately the time to double or the half time. Suppose, for instance, that the population growth rate is 2% per year. To calculate approximately how long time it will take for the population to double, we simply divide 72 by the growth rate in percent:
-$$ \text{Years to double} = \frac{72}{2} = 36$$
-A growth rate of 3% gives a doubling time of 24 years, 4% gives 18 years, 6% gives 12 years, and so on. In the case of exponential decay, the rule will give the half-time.&lt;/p&gt;
-
-&lt;p&gt;This is an absolutely incredible approximation rule. It gives you superpowers: you are now able to simply glance quickly at a growth or decay rate and immediately get a feel for the doubling or halving time, which is often a more intuitive measure than the rate itself.&lt;/p&gt;
-
-&lt;p&gt;So how does it work?&lt;/p&gt;
-
-&lt;p&gt;First we set up an equation showing exactly what we mean by doubling time, and how it relates to the rate of (compounded) growth. If $p$ is the growth rate and $a_0$ is the initial quantity, we know that after one period, the quantity $a_1$ will be given by:
-$$ a_1 = a_0(1+p). $$
-To calculate the quantity after two periods, we apply the growth rate to $a_1$:
-$$ a_2 = a_1(1+p) = a_0 (1+p)(1+p) = a_0(1+p)^2. $$
-You&amp;rsquo;ve probably got the point already: after applying the growth rate for $n$ periods, the quantity will be:
-$$ a_n = a_0(1+p)^n. $$
-If we are looking for the doubling time, we want to know how many periods it takes before the quantity has grown to twice its initial value, $2a_0$. In fact, we want to know the number of periods $n$ such that:
-$$ 2a_0 = a_0(1+p)^n. $$
-Solving this equation for the number $n$ is not so hard: first we can divide both sides by $a_0$ to make it disappear entirely from the equation (it turns out that the doubling time does not depend on the initial quantity!), and then we take the natural logarithm of both sides of the equation and simply solve for $n$:
-$$ 2 = (1+p)^n $$
-$$ \ln(2) = n\ln(1+p) $$
-$$ n = \frac{\ln(2)}{\ln(1+p)} $$
-This equation explicitly gives the &lt;em&gt;exact&lt;/em&gt; number of periods $n$ that the initial quantity will take to double, given the growth rate $p$. But as a rule-of-thumb, it would be very handy, because it involves calculating two logarithms and doing a division, which is too taxing for my poor little head.&lt;/p&gt;
-
-&lt;p&gt;So from here, we make two wonderful approximations. Firstly, we note that when the growth rate $p$ is small, we can approximate $\ln(1+p)$ simply by $p$:
-$$ \ln(1+p) \approx p. $$
-You can try this on your calculator, and see that it is a fairly accurate approximation for small values of $p$, up to about $0.1$ (that is, a 10% growth rate).&lt;/p&gt;
-
-&lt;p&gt;But wait a minute &amp;ndash; how did we do that? And how can we be sure that it is so? Testing things on the calculator may convince some people, but certainly not a critical mind. And furthermore, I don&amp;rsquo;t find it to be a very satisfactory explanation. So let&amp;rsquo;s make the argument a little more convincing.&lt;/p&gt;
-
-&lt;p&gt;A few prerequisites: we all know that the derivative of $\ln(x)$ is simply $1/x$. And we also know that $\ln(1)=0$. A &amp;ldquo;first-order &lt;a href=&#34;https://en.wikipedia.org/wiki/Taylor_series&#34; target=&#34;_blank&#34;&gt;Taylor expansion&lt;/a&gt;&amp;rdquo; is a way of approximating the value of a function at a point using the value of the function and its derivative at a nearby point:
-$$ f(x_0 + \Delta x) \approx f(x_0) + f&amp;rsquo;(x_0) \Delta x. $$
-Now, let&amp;rsquo;s try creating a first-order Taylor expansion of the function $\ln(x)$ around the point $x_0=1$:
-$$ \ln(1+\Delta x) \approx \ln(1) + \frac{1}{1}\Delta x. $$
-Then remember that $\ln(1)=0$, and use $\Delta x = p$:
-$$ \ln(1+p) \approx p. $$
-So this approximation is simply the first-order Taylor expansion of the natural logarithm $\ln(\cdot)$ around the point $x_0 = 1$! (If you are concerned about the accuracy of the approximation, rest assured that it will be of the order $O(p^2)$.).&lt;/p&gt;
-
-&lt;p&gt;Back to the doubling time. Insert the first wonderful approximation $\ln(1+p) \approx p$ into the denominator:
-$$ n \approx \frac{\ln(2)}{p}. $$
-Calculating $\ln(2)$ can be a little tricky too, so let&amp;rsquo;s try to do something about the numerator. Calculating $\ln(2)$ to the first ten decimal points gives the following:
-$$ \ln(2) = 0.6931471806 = 69.31471806\% $$
-Since the numerator is constant, let&amp;rsquo;s just put in a number that&amp;rsquo;s close to the number $\ln(2)$, but which is a little prettier and easier to work with. Since $p$ will normally assume values such as 1%, 2%, &amp;hellip;, it would be conventient to use a number that is easily divided by whole number percentages. Turns out that, amongst the numbers close to 69%, 72% is the number with the largest amount of prime factors &amp;ndash; which means that it can be evenly divided by many different integers:&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Number&lt;/th&gt;
-&lt;th&gt;Factors&lt;/th&gt;
-&lt;th&gt;Number of Factors&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;65&lt;/td&gt;
-&lt;td&gt;5,13&lt;/td&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;66&lt;/td&gt;
-&lt;td&gt;2,3,6,11,22,33&lt;/td&gt;
-&lt;td&gt;6&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;67&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;68&lt;/td&gt;
-&lt;td&gt;2,4,17,34&lt;/td&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;69&lt;/td&gt;
-&lt;td&gt;3,23&lt;/td&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;70&lt;/td&gt;
-&lt;td&gt;2,5,7,10,14,35&lt;/td&gt;
-&lt;td&gt;6&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;71&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;2,3,4,6,8,9,12,18,24,36&lt;/td&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;73&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;So we choose 72% to approximate 69.31471806% in this case, because it is a number which is particularly easy to divide by many integers that we are likely to encounter (5, 7 and 10 being notable exceptions, but for that you can rather use 70 instead).&lt;/p&gt;
-
-&lt;p&gt;Therefore, we can approximate $n$ &amp;ndash; the number of periods required for doubling the initial quantity &amp;ndash; by:
-$$ n \approx \frac{72}{p}. $$
-And there you have it: the rule of 72. A simple approximation rule for thinking about growth (or decay) rates, supported by an interesting mathematical sleight-of-hand.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Sometimes we can solve a problem &lt;em&gt;almost&lt;/em&gt; correctly in a small fraction of the time it takes to solve the problem exactly. This post is an appreciation of approximation methods, related to my project on &lt;a href=&#34;http://www.iantrotter.com/project/reverse-the-curse/&#34;&gt;approximate solutions to stochastic dynamic optimisation problems&lt;/a&gt;, funded by &lt;a href=&#34;https://serrapilheira.org/en/&#34; target=&#34;_blank&#34;&gt;Instituto Serraphilheira&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Kicking Off the Research Project on Stochastic Dynamic Optimisation</title>
-      <link>http://www.iantrotter.com/post/serra-start/</link>
-      <pubDate>Sun, 25 Feb 2018 09:07:06 -0300</pubDate>
-      
-      <guid>http://www.iantrotter.com/post/serra-start/</guid>
-      <description>&lt;p&gt;We are now in the process of starting up the research project &lt;a href=&#34;http://www.iantrotter.com/project/reverse-the-curse/&#34;&gt;&amp;ldquo;Reverse the Curse: Can Quantum Computing Lift Bellman’s Curse of Dimensionality?&amp;rdquo;&lt;/a&gt;, which received financial support from &lt;a href=&#34;https://serrapilheira.org/&#34; target=&#34;_blank&#34;&gt;Instituto Serrapilheira&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;The research project combined two important topics that I have been thinking about for a long time already.&lt;/p&gt;
-
-&lt;p&gt;Firstly, people who know me will not be surprised to see that I continue to work on stochastic dynamic optimisation problems &amp;ndash; also known as &amp;ldquo;stochastic dynamic programming&amp;rdquo; problems, but I prefer &amp;ldquo;optimisation&amp;rdquo;, since (mathematical) &amp;ldquo;programming&amp;rdquo; is often confused with &lt;em&gt;computer programming&lt;/em&gt; &amp;ndash; and to add to the confusion, my research involves both! This is a problem class that pops up absolutely everywhere, and has been a great obsession of mine ever since I first encountered it when working with valuation of natural gas storage. It was love at first sight, and currently permeates pretty much all my work. It is an incredible privilege to be able to follow my passion for (numerical) stochastic dynamic optimisation.&lt;/p&gt;
-
-&lt;p&gt;The surprise in this research project is the inclusion of quantum computing. The last few years we have seen amazing developments &amp;ndash; theoretical and practical &amp;ndash; in quantum computing. I won&amp;rsquo;t hesitate to admit that I am very new to quantum computing, my understanding of it leaves much to be desired, and the whole subject is massively intimidating. I&amp;rsquo;m sure I&amp;rsquo;m not the only one who feels that way.&lt;/p&gt;
-
-&lt;p&gt;However, it is an interesting frontier of research, and it is so promising that we can&amp;rsquo;t help but wonder what possibilities lay ahead. Is it possible that this new computing paradigm can help me solve larger and more complex stochastic dynamic optimisation problems than we are currently capable of handling? Or is it, perhaps, a dead end? Or perhaps somebody already did, but I don&amp;rsquo;t know about it yet? Or maybe it is even obvious for those who are more familiar with quantum computing whether it is worth pursuing or not?&lt;/p&gt;
-
-&lt;p&gt;So here we go, venturing into the unknown, without knowing what lies ahead. Humble about our shortcomings, our lack of knowledge and understanding, yet at the same time excited to satisfy our curiosity.&lt;/p&gt;
-
-&lt;p&gt;For the next year, we will work tirelessly on stochastic dynamic optimisation problems. The first step is to study state-of-the-art approximation algorithms for these problems, and attempt to make some contributions of our own. In a second stage of the project &amp;ndash; conditional on additional funding &amp;ndash; the deeper understanding gained from working with approximation algorithms will be leveraged, in which we aim to combine our understanding of powerful approximation methods for stochastic dynamic optimisation with quantum computing paradigms.&lt;/p&gt;
-
-&lt;p&gt;These days, it feels like we are at the dawn of the quantum computing era. Let&amp;rsquo;s make sure we are well prepared for it.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Developing the Norwegian Energy System in the European Energy Transition (NORENS)</title>
-      <link>http://www.iantrotter.com/project/norens/</link>
-      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.iantrotter.com/project/norens/</guid>
-      <description>&lt;p&gt;The primary objective of NORENS is to develop a broader and better knowlegde base for the problem of planning an efficient, profitable and robust electricity production and transmission infrastructure for Norway in light of the ongoing transition of the European energy system.&lt;/p&gt;
-
-&lt;p&gt;This project is a collaboration between researchers at the &lt;a href=&#34;https://www.nmbu.no/en/faculty/mina&#34; target=&#34;_blank&#34;&gt;Faculty of Environmental Sciences and Natural Resource Management (MINA)&lt;/a&gt; and the &lt;a href=&#34;https://www.nmbu.no/en/faculty/hh&#34; target=&#34;_blank&#34;&gt;School of Economics and Business&lt;/a&gt; at the &lt;a href=&#34;https://www.nmbu.no/en&#34; target=&#34;_blank&#34;&gt;Norwegian University of Life Sciences&lt;/a&gt;, the &lt;a href=&#34;https://www.cicero.uio.no/en&#34; target=&#34;_blank&#34;&gt;Center for International Climate Research&lt;/a&gt; at the &lt;a href=&#34;http://www.uio.no/&#34; target=&#34;_blank&#34;&gt;University of Oslo&lt;/a&gt;, the &lt;a href=&#34;http://www.dtu.dk/english&#34; target=&#34;_blank&#34;&gt;Technical University of Denmark (DTU)&lt;/a&gt;, the &lt;a href=&#34;https://www.ufv.br/&#34; target=&#34;_blank&#34;&gt;Federal University of Viçosa&lt;/a&gt;, the &lt;a href=&#34;https://www.uni-oldenburg.de/en/&#34; target=&#34;_blank&#34;&gt;University of Oldenburg&lt;/a&gt; and &lt;a href=&#34;https://www.nve.no/english/&#34; target=&#34;_blank&#34;&gt;The Norwegian Water Resources and Energy Directorate (NVE)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In addition, the project is backed by a number of industrial partners &amp;ndash; &lt;a href=&#34;http://www.statnett.no/en/&#34; target=&#34;_blank&#34;&gt;Statnett&lt;/a&gt;, &lt;a href=&#34;https://www.nve.no/english/&#34; target=&#34;_blank&#34;&gt;The Norwegian Water Resources and Energy Directorate (NVE)&lt;/a&gt; and &lt;a href=&#34;http://www.ostfoldenergi.no/&#34; target=&#34;_blank&#34;&gt;Østfold Energi&lt;/a&gt; &amp;ndash; and is supported by the &lt;a href=&#34;https://www.forskningsradet.no/prognett-energix/Home_page/1253980140022&#34; target=&#34;_blank&#34;&gt;ENERGIX programme&lt;/a&gt; of the &lt;a href=&#34;https://www.forskningsradet.no/&#34; target=&#34;_blank&#34;&gt;Norwegian Research Council&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

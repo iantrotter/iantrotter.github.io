@@ -1,5 +1,100 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/publication_types/2/</loc>
+      <lastmod>2019-05-22T13:10:02-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/tags/climate-change/</loc>
+      <lastmod>2019-05-22T13:10:02-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/publication/climate-change-paraguay-power/</loc>
+      <lastmod>2019-05-22T13:10:02-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/tags/electricity-consumption/</loc>
+      <lastmod>2019-05-22T13:10:02-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/</loc>
+      <lastmod>2019-05-22T13:10:02-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/tags/paraguay/</loc>
+      <lastmod>2019-05-22T13:10:02-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/tags/power-demand/</loc>
+      <lastmod>2019-05-22T13:10:02-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/publication_types/</loc>
+      <lastmod>2019-05-22T13:10:02-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/tags/</loc>
+      <lastmod>2019-05-22T13:10:02-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/post/paraguay-power/</loc>
+      <lastmod>2019-05-20T20:57:10-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/post/xxxi-sipe/</loc>
+      <lastmod>2019-05-15T20:07:01-03:00</lastmod>
+    </url>
+    
   
     
     <url>
@@ -14,6 +109,15 @@
     
       <loc>http://www.iantrotter.com/post/xxx-sipe/</loc>
       <lastmod>2018-08-30T10:45:46-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/tags/events/</loc>
+      <lastmod>2018-08-30T10:45:46-03:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -46,6 +150,24 @@
     
       <loc>http://www.iantrotter.com/post/reinforcements/</loc>
       <lastmod>2018-07-12T16:20:26-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/tags/books/</loc>
+      <lastmod>2018-06-20T15:39:09-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/tags/stochastic-dynamic-optimisation/</loc>
+      <lastmod>2018-06-20T15:39:09-03:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -92,6 +214,15 @@
     
     <url>
     
+      <loc>http://www.iantrotter.com/categories/</loc>
+      <lastmod>2018-02-28T21:59:23-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://www.iantrotter.com/post/everything-is-sdp/</loc>
       <lastmod>2018-02-28T21:59:23-03:00</lastmod>
     </url>
@@ -100,8 +231,53 @@
     
     <url>
     
+      <loc>http://www.iantrotter.com/tags/research/</loc>
+      <lastmod>2018-02-28T21:59:23-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/tags/sdp/</loc>
+      <lastmod>2018-02-28T21:59:23-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/categories/stochastic-dynamic-optimisation/</loc>
+      <lastmod>2018-02-28T21:59:23-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://www.iantrotter.com/post/rule-of-72/</loc>
       <lastmod>2018-02-28T00:00:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/tags/approximation/</loc>
+      <lastmod>2018-02-28T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/tags/mathematics/</loc>
+      <lastmod>2018-02-28T00:00:00-03:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -124,6 +300,15 @@
     
     <url>
     
+      <loc>http://www.iantrotter.com/project/</loc>
+      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://www.iantrotter.com/project/reverse-the-curse/</loc>
       <lastmod>2018-01-02T00:00:00+00:00</lastmod>
     </url>
@@ -132,8 +317,62 @@
     
     <url>
     
+      <loc>http://www.iantrotter.com/tags/algorithms/</loc>
+      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/tags/dynamic-programming/</loc>
+      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/tags/energy/</loc>
+      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/tags/quantum-computing/</loc>
+      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://www.iantrotter.com/project/accelerating-sdp/</loc>
       <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/tags/macnine-learning/</loc>
+      <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/tags/optimisation/</loc>
+      <lastmod>2017-11-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -156,8 +395,26 @@
     
     <url>
     
+      <loc>http://www.iantrotter.com/tags/macroeconomics/</loc>
+      <lastmod>2017-10-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://www.iantrotter.com/post/website-launch/</loc>
       <lastmod>2017-09-26T09:09:02-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.iantrotter.com/publication_types/1/</loc>
+      <lastmod>2017-07-25T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -214,203 +471,6 @@
     
       <loc>http://www.iantrotter.com/publication/electricity-demand/</loc>
       <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/publication_types/1/</loc>
-      <lastmod>2017-07-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/publication_types/2/</loc>
-      <lastmod>2018-08-29T23:31:56-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/tags/algorithms/</loc>
-      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/tags/approximation/</loc>
-      <lastmod>2018-02-28T00:00:00-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/tags/books/</loc>
-      <lastmod>2018-06-20T15:39:09-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/tags/dynamic-programming/</loc>
-      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/tags/energy/</loc>
-      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/tags/events/</loc>
-      <lastmod>2018-08-30T10:45:46-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/</loc>
-      <lastmod>2017-10-14T23:00:00-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/tags/macnine-learning/</loc>
-      <lastmod>2017-11-30T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/tags/macroeconomics/</loc>
-      <lastmod>2017-10-06T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/tags/mathematics/</loc>
-      <lastmod>2018-02-28T00:00:00-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/tags/optimisation/</loc>
-      <lastmod>2017-11-30T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/project/</loc>
-      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/publication_types/</loc>
-      <lastmod>2017-07-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/tags/quantum-computing/</loc>
-      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/tags/research/</loc>
-      <lastmod>2018-02-28T21:59:23-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/tags/sdp/</loc>
-      <lastmod>2018-02-28T21:59:23-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/tags/stochastic-dynamic-optimisation/</loc>
-      <lastmod>2018-06-20T15:39:09-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/categories/stochastic-dynamic-optimisation/</loc>
-      <lastmod>2018-02-28T21:59:23-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://www.iantrotter.com/tags/</loc>
-      <lastmod>2018-01-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

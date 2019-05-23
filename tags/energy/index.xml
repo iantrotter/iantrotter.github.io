@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Energy on Ian Michael Trotter</title>
+    <title>energy on Ian Michael Trotter</title>
     <link>http://www.iantrotter.com/tags/energy/</link>
-    <description>Recent content in Energy on Ian Michael Trotter</description>
+    <description>Recent content in energy on Ian Michael Trotter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ian Michael Trotter</copyright>
@@ -18,8 +18,7 @@
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.iantrotter.com/project/norens/</guid>
-      <description>The primary objective of NORENS is to develop a broader and better knowlegde base for the problem of planning an efficient, profitable and robust electricity production and transmission infrastructure for Norway in light of the ongoing transition of the European energy system.
-This project is a collaboration between researchers at the Faculty of Environmental Sciences and Natural Resource Management (MINA) and the School of Economics and Business at the Norwegian University of Life Sciences, the Center for International Climate Research at the University of Oslo, the Technical University of Denmark (DTU), the Federal University of Viçosa, the University of Oldenburg and The Norwegian Water Resources and Energy Directorate (NVE).</description>
+      <description>What will be the role of the Norwegian electric sector in the ongoing transition of the European energy system?</description>
     </item>
     
   </channel>
