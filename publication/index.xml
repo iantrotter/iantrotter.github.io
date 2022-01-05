@@ -6,36 +6,54 @@
     <description>Recent content in Publications on Ian Michael Trotter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Ian Michael Trotter</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2022 Ian Michael Trotter</copyright>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.iantrotter.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Climate Change Scenarios for Paraguayan Power Demand 2017-2050</title>
-      <link>http://www.iantrotter.com/publication/climate-change-paraguay-power/</link>
-      <pubDate>Wed, 22 May 2019 13:10:02 -0300</pubDate>
+      <title>Increased Electrification of Heating and Weather Risk in the Nordic Power System</title>
+      <link>http://www.iantrotter.com/publication/heating-electrification-weather-risk/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.iantrotter.com/publication/climate-change-paraguay-power/</guid>
+      <guid>http://www.iantrotter.com/publication/heating-electrification-weather-risk/</guid>
+      <description>Weather is one of the main drivers of both the power demand and supply, especially in the Nordic region which is characterized by high heating needs and a high share of renewable energy. Furthermore, ambitious decarbonization plans may cause power to replace fossil fuels for heating in the Nordic region, at the same time as large wind power expansions are expected, resulting in even greater exposure to weather risk. In this study, we quantify the increase in weather risk resulting from replacing fossil fuels with power for heating in the Nordic region, at the same time as variable renewable generation expands.</description>
+    </item>
+    
+    <item>
+      <title>Welfare impacts of a negative income tax on regions of Brazil</title>
+      <link>http://www.iantrotter.com/publication/negative-income-tax/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/publication/negative-income-tax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of a possible trade liberalization between Brazil, the United States, the European Union and China on the Brazilian economy: An analysis of Computable General Equilibrium</title>
+      <link>http://www.iantrotter.com/publication/br-us-eu-ch-trade/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/publication/br-us-eu-ch-trade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Climate Change Scenarios for Paraguayan Power Demand 2017-2050</title>
+      <link>http://www.iantrotter.com/publication/paraguay-power-demand/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/publication/paraguay-power-demand/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing community trees using the open tree of life increases the reliability of phylogenetic diversity and dispersion indices</title>
       <link>http://www.iantrotter.com/publication/community-trees/</link>
-      <pubDate>Wed, 29 Aug 2018 23:31:56 -0300</pubDate>
-      
-      <guid>http://www.iantrotter.com/publication/community-trees/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimal Fiscal Policy: A Dynamic Analysis for Brazil</title>
-      <link>http://www.iantrotter.com/publication/optimal-fiscal-policy/</link>
       <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.iantrotter.com/publication/optimal-fiscal-policy/</guid>
+      <guid>http://www.iantrotter.com/publication/community-trees/</guid>
       <description></description>
     </item>
     
@@ -63,6 +81,15 @@
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.iantrotter.com/publication/electricity-demand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The relationships between CDM project characteristics and CER market prices</title>
+      <link>http://www.iantrotter.com/publication/cdm-cer-prices/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/publication/cdm-cer-prices/</guid>
       <description></description>
     </item>
     

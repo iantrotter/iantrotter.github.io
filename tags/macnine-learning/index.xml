@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>macnine-learning on Ian Michael Trotter</title>
+    <title>Macnine Learning on Ian Michael Trotter</title>
     <link>http://www.iantrotter.com/tags/macnine-learning/</link>
-    <description>Recent content in macnine-learning on Ian Michael Trotter</description>
+    <description>Recent content in Macnine Learning on Ian Michael Trotter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Ian Michael Trotter</copyright>
+    <copyright>&amp;copy; 2022 Ian Michael Trotter</copyright>
     <lastBuildDate>Thu, 30 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.iantrotter.com/tags/macnine-learning/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,8 @@
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.iantrotter.com/project/accelerating-sdp/</guid>
-      <description>We are developing new and faster ways of solve stochastic dynamic optimisation problems numerically.</description>
+      <description>Stochastic dynamic optimisation problems are found in several branches of economics: consumer theory, producer theory, resource economics, macroeconomics, game theory, operations research, and so forth. And most of the time, the numerical resolution of these problems is considered computationally intractable due to the so-called &amp;ldquo;curse of dimensionality&amp;rdquo;.
+The main goal of this project is to develop new computational methods for the numerical resolution of stochastic dynamic optimisation problems. Improved techniques for resolving this problem class could have a great impact on society, as it would improve decision support systems for a large number of institutions, and for instance improve the management of natural resources, adaptation to and mitigation of climate change, financial management and business decisions.</description>
     </item>
     
   </channel>

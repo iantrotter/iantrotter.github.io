@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>macroeconomics on Ian Michael Trotter</title>
+    <title>Macroeconomics on Ian Michael Trotter</title>
     <link>http://www.iantrotter.com/tags/macroeconomics/</link>
-    <description>Recent content in macroeconomics on Ian Michael Trotter</description>
+    <description>Recent content in Macroeconomics on Ian Michael Trotter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Ian Michael Trotter</copyright>
+    <copyright>&amp;copy; 2022 Ian Michael Trotter</copyright>
     <lastBuildDate>Fri, 06 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.iantrotter.com/tags/macroeconomics/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.iantrotter.com/project/paeg/</guid>
-      <description>A Computable General Equlibrium (CGE) model for Brazil, based on GTAP, with separate modelling of the five Brazilian macro-regions.</description>
+      <description></description>
     </item>
     
   </channel>

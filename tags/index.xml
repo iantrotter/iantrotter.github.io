@@ -6,113 +6,23 @@
     <description>Recent content in Tags on Ian Michael Trotter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Ian Michael Trotter</copyright>
-    <lastBuildDate>Wed, 22 May 2019 13:10:02 -0300</lastBuildDate>
+    <copyright>&amp;copy; 2022 Ian Michael Trotter</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.iantrotter.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Climate Change</title>
-      <link>http://www.iantrotter.com/tags/climate-change/</link>
-      <pubDate>Wed, 22 May 2019 13:10:02 -0300</pubDate>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>http://www.iantrotter.com/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.iantrotter.com/tags/climate-change/</guid>
-      <description></description>
+      <guid>http://www.iantrotter.com/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
-      <title>Electricity Consumption</title>
-      <link>http://www.iantrotter.com/tags/electricity-consumption/</link>
-      <pubDate>Wed, 22 May 2019 13:10:02 -0300</pubDate>
-      
-      <guid>http://www.iantrotter.com/tags/electricity-consumption/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paraguay</title>
-      <link>http://www.iantrotter.com/tags/paraguay/</link>
-      <pubDate>Wed, 22 May 2019 13:10:02 -0300</pubDate>
-      
-      <guid>http://www.iantrotter.com/tags/paraguay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power Demand</title>
-      <link>http://www.iantrotter.com/tags/power-demand/</link>
-      <pubDate>Wed, 22 May 2019 13:10:02 -0300</pubDate>
-      
-      <guid>http://www.iantrotter.com/tags/power-demand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>events</title>
-      <link>http://www.iantrotter.com/tags/events/</link>
-      <pubDate>Thu, 30 Aug 2018 10:45:46 -0300</pubDate>
-      
-      <guid>http://www.iantrotter.com/tags/events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Books</title>
-      <link>http://www.iantrotter.com/tags/books/</link>
-      <pubDate>Wed, 20 Jun 2018 15:39:09 -0300</pubDate>
-      
-      <guid>http://www.iantrotter.com/tags/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stochastic Dynamic Optimisation</title>
-      <link>http://www.iantrotter.com/tags/stochastic-dynamic-optimisation/</link>
-      <pubDate>Wed, 20 Jun 2018 15:39:09 -0300</pubDate>
-      
-      <guid>http://www.iantrotter.com/tags/stochastic-dynamic-optimisation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>http://www.iantrotter.com/tags/research/</link>
-      <pubDate>Wed, 28 Feb 2018 21:59:23 -0300</pubDate>
-      
-      <guid>http://www.iantrotter.com/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SDP</title>
-      <link>http://www.iantrotter.com/tags/sdp/</link>
-      <pubDate>Wed, 28 Feb 2018 21:59:23 -0300</pubDate>
-      
-      <guid>http://www.iantrotter.com/tags/sdp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>approximation</title>
-      <link>http://www.iantrotter.com/tags/approximation/</link>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 -0300</pubDate>
-      
-      <guid>http://www.iantrotter.com/tags/approximation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mathematics</title>
-      <link>http://www.iantrotter.com/tags/mathematics/</link>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 -0300</pubDate>
-      
-      <guid>http://www.iantrotter.com/tags/mathematics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>algorithms</title>
+      <title>Algorithms</title>
       <link>http://www.iantrotter.com/tags/algorithms/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
@@ -121,7 +31,7 @@
     </item>
     
     <item>
-      <title>dynamic programming</title>
+      <title>Dynamic Programming</title>
       <link>http://www.iantrotter.com/tags/dynamic-programming/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
@@ -130,7 +40,7 @@
     </item>
     
     <item>
-      <title>energy</title>
+      <title>Energy</title>
       <link>http://www.iantrotter.com/tags/energy/</link>
       <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
@@ -139,16 +49,7 @@
     </item>
     
     <item>
-      <title>quantum computing</title>
-      <link>http://www.iantrotter.com/tags/quantum-computing/</link>
-      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.iantrotter.com/tags/quantum-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>macnine-learning</title>
+      <title>Macnine Learning</title>
       <link>http://www.iantrotter.com/tags/macnine-learning/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
@@ -157,7 +58,16 @@
     </item>
     
     <item>
-      <title>optimisation</title>
+      <title>Macroeconomics</title>
+      <link>http://www.iantrotter.com/tags/macroeconomics/</link>
+      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.iantrotter.com/tags/macroeconomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimisation</title>
       <link>http://www.iantrotter.com/tags/optimisation/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
@@ -166,11 +76,11 @@
     </item>
     
     <item>
-      <title>macroeconomics</title>
-      <link>http://www.iantrotter.com/tags/macroeconomics/</link>
-      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      <title>Quantum Computing</title>
+      <link>http://www.iantrotter.com/tags/quantum-computing/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.iantrotter.com/tags/macroeconomics/</guid>
+      <guid>http://www.iantrotter.com/tags/quantum-computing/</guid>
       <description></description>
     </item>
     
